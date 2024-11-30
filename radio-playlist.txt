@@ -1,0 +1,4 @@
+Місто над бугом, https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg, https://stream.mistonadbugom.com.ua/radiomistonadbugom
+Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, http://195.234.148.52:8000/;
+Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, http://195.234.148.51:8000/;
+Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm

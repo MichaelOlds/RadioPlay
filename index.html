@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RadioPlay</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0e0e0;
+            color: #000000;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            margin: 0;
+        }
+        body.dark-theme {
+            background-color: #212121;
+            color: #ffffff;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+        .radio-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            gap: 10px;
+        }
+        .radio-item {
+            display: flex;
+            align-items: center;
+            background: #f0f0f0;
+            border-radius: 15px;
+            box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+            padding: 10px;
+            transition: all 0.3s ease;
+            flex: 0 1 calc(33.333% - 10px);
+            box-sizing: border-box;
+        }
+        .radio-item:hover {
+            box-shadow: 2px 2px 10px #aaaaaa, -2px -2px 10px #ffffff;
+        }
+        .radio-logo {
+            width: 60px;
+            height: 60px;
+            border-radius: 10px;
+            margin-right: 10px;
+        }
+        .radio-item.dark-theme {
+            background: #333333;
+            color: #ffffff;
+            box-shadow: 5px 5px 15px #000000, -5px -5px 15px #444444;
+        }
+        .player {
+            display: flex;
+            align-items: center;
+            background: #e0e0e0;
+            border-radius: 18px 18px 0 0;
+            box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+            padding: 0 10px;
+            position: fixed;
+            bottom: 0;
+            width: calc(100% - 20px);
+            height: 65px;
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+        .player.hidden {
+            display: none;
+        }
+        .player.dark-theme {
+            background: #333333;
+            box-shadow: 5px 5px 15px #000000, -5px -5px 15px #444444;
+        }
+        .player-logo {
+            width: 53px;
+            height: 53px;
+            border-radius: 8px;
+            margin-right: 7px;
+        }
+        .player-info {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+        }
+        .player-info h3 {
+            font-size: 16px;
+            margin: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .player-controls {
+            display: flex;
+            align-items: center;
+        }
+        .player-controls button {
+            background: none;
+            border: none;
+            margin: 0 5px;
+            cursor: pointer;
+            font-size: 16px;
+            color: #606060;
+            transition: color 0.3s ease;
+        }
+        .player-controls button:hover {
+            color: #000000;
+        }
+        .player-controls button.dark-theme {
+            color: #aaaaaa;
+        }
+        .theme-toggle {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border: 2px solid #212121;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 5px rgba(0,0,0,0.3);
+        }
+        .theme-toggle.dark {
+            background-color: #212121;
+        }
+        @media (max-width: 768px) {
+            .radio-item {
+                flex: 0 1 100%;
+            }
+            .player {
+                height: 63px;
+            }
+            .player-info {
+                text-align: center;
+                margin-top: 0;
+            }
+            .player-controls {
+                margin-top: 0;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div id="radio-list" class="radio-list"></div>
+    </div>
+    <div id="player" class="player hidden">
+        <img id="player-logo" src="" alt="Radio Logo" class="player-logo">
+        <div class="player-info">
+            <h3 id="player-name">Назва Радіо</h3>
+        </div>
+        <div class="player-controls">
+            <button id="prev-btn"><i class="fas fa-backward"></i></button>
+            <button id="play-pause-btn"><i class="fas fa-play"></i></button>
+            <button id="next-btn"><i class="fas fa-forward"></i></button>
+        </div>
+    </div>
+    <button class="theme-toggle" id="theme-toggle"></button>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const radioListContainer = document.getElementById('radio-list');
+            const player = document.getElementById('player');
+            const playerLogo = document.getElementById('player-logo');
+            const playerName = document.getElementById('player-name');
+            const playPauseBtn = document.getElementById('play-pause-btn');
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const themeToggle = document.getElementById('theme-toggle');
+
+            let radioStations = [];
+            let currentStationIndex = null; // Видалено збереження індексу станції
+            let isPlaying = false;
+            let audio = new Audio();
+
+            fetch('radio-playlist.txt')
+                .then(response => response.text())
+                .then(data => {
+                    radioStations = data.trim().split('\n').map(line => {
+                        const [name, logo, stream] = line.split(',').map(item => item.trim());
+                        return { name, logo, stream };
+                    });
+                    displayRadioStations();
+                    const isDark = localStorage.getItem('isDarkTheme') === 'true';
+                    if (isDark) {
+                        updateThemeElements(true);
+                    }
+                });
+
+            function displayRadioStations() {
+                radioStations.forEach((station, index) => {
+                    const radioItem = document.createElement('div');
+                    radioItem.classList.add('radio-item');
+                    radioItem.innerHTML = `<img src="${station.logo}" alt="${station.name}" class="radio-logo">
+                                           <div>${station.name}</div>`;
+                    radioItem.addEventListener('click', () => playStation(index));
+                    radioListContainer.appendChild(radioItem);
+                });
+            }
+
+            function playStation(index) {
+                if (currentStationIndex !== index) {
+                    currentStationIndex = index;
+                    audio.src = radioStations[index].stream;
+                    playerLogo.src = radioStations[index].logo;
+                    playerName.textContent = radioStations[index].name;
+                    isPlaying = true;
+                    audio.play();
+                    playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+                    player.classList.remove('hidden');
+                } else {
+                    togglePlayPause();
+                }
+            }
+
+            function togglePlayPause() {
+                if (isPlaying) {
+                    audio.pause();
+                    playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+                } else {
+                    audio.play();
+                    playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+                }
+                isPlaying = !isPlaying;
+            }
+
+            function playNextStation() {
+                playStation((currentStationIndex + 1) % radioStations.length);
+            }
+
+            function playPrevStation() {
+                playStation((currentStationIndex - 1 + radioStations.length) % radioStations.length);
+            }
+            // Завантаження стану теми з localStorage
+            if (localStorage.getItem('isDarkTheme') === 'true') {
+                document.body.classList.add('dark-theme');
+                themeToggle.classList.add('dark');
+            }
+
+            playPauseBtn.addEventListener('click', togglePlayPause);
+            nextBtn.addEventListener('click', playNextStation);
+            prevBtn.addEventListener('click', playPrevStation);
+
+            themeToggle.addEventListener('click', () => {
+                const isDark = !document.body.classList.contains('dark-theme');
+                document.body.classList.toggle('dark-theme', isDark);
+                themeToggle.classList.toggle('dark', isDark);
+                updateThemeElements(isDark);
+                localStorage.setItem('isDarkTheme', isDark);
+            });
+
+            function updateThemeElements(isDark) {
+                document.body.style.backgroundColor = isDark ? '#212121' : '#e0e0e0';
+                themeToggle.style.backgroundColor = isDark ? '#212121' : 'white';
+                document.querySelectorAll('.radio-item').forEach(item => {
+                    item.classList.toggle('dark-theme', isDark);
+                });
+                player.classList.toggle('dark-theme', isDark);
+                document.querySelectorAll('.player-controls button').forEach(button => {
+                    button.classList.toggle('dark-theme', isDark);
+                });
+            }
+
+            // Виклик функції updateThemeElements після завантаження сторінки
+            window.addEventListener('load', () => {
+                const isDark = document.body.classList.contains('dark-theme');
+                updateThemeElements(isDark);
+            });
+
+            // Виправлення проблеми із залишковим кольором кнопок
+            audio.addEventListener('ended', () => {
+                playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+                isPlaying = false;
+            });
+
+            // Відновлення стану кнопок управління після зміни станцій
+            prevBtn.addEventListener('mouseout', () => {
+                prevBtn.style.color = '';
+            });
+            nextBtn.addEventListener('mouseout', () => {
+                nextBtn.style.color = '';
+            });
+
+        });
+    </script>
+</body>
+</html>
