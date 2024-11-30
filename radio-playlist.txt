@@ -4,3 +4,4 @@
 Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Є! Радіо, https://www.dropbox.com/scl/fi/usgvx0hw6zfwati6hhjlc/.jpg?rlkey=gzdi3wiv5x945prhefwsh3zsp&dl=1, https://cast1.asurahosting.com/proxy/northst2/eradio1
+M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, http://live.m2.tv/hls3/720/stream.m3u8
