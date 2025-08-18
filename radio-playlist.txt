@@ -1,7 +1,9 @@
-Місто над бугом, https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg, https://stream.mistonadbugom.com.ua/radiomistonadbugom
+Місто над бугом, https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg, https://stream.mistonadbugom.com.ua/radiomistonadbugom, https://scraper.onlineradiobox.com/ua.mistonadbugom
 Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, http://195.234.148.52:8000/stream.mp3
-Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, http://195.234.148.51:8000/stream.mp3
-Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm
+Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, http://195.234.148.51:8000/stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
+Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
-Є! Радіо, https://www.dropbox.com/scl/fi/usgvx0hw6zfwati6hhjlc/.jpg?rlkey=gzdi3wiv5x945prhefwsh3zsp&dl=1, https://cast1.asurahosting.com/proxy/northst2/eradio1
+Є! Радіо,  https://www.dropbox.com/scl/fi/usgvx0hw6zfwati6hhjlc/.jpg?rlkey=gzdi3wiv5x945prhefwsh3zsp&dl=1, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, http://live.m2.tv/hls3/720/stream.m3u8
+
+
