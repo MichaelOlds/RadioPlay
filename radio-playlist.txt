@@ -1,6 +1,6 @@
 Місто над бугом, https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg, https://stream.mistonadbugom.com.ua/radiomistonadbugom
-Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, https://www.liveradio.es/http://195.234.148.52:8000/stream.mp3
-Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, https://www.liveradio.es/http://195.234.148.51:8000/stream.mp3
+Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, http://195.234.148.52:8000/stream.mp3
+Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, http://195.234.148.51:8000/stream.mp3
 Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Є! Радіо, https://www.dropbox.com/scl/fi/usgvx0hw6zfwati6hhjlc/.jpg?rlkey=gzdi3wiv5x945prhefwsh3zsp&dl=1, https://cast1.asurahosting.com/proxy/northst2/eradio1
