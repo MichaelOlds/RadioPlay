@@ -5,5 +5,7 @@
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Є! Радіо,  https://www.dropbox.com/scl/fi/usgvx0hw6zfwati6hhjlc/.jpg?rlkey=gzdi3wiv5x945prhefwsh3zsp&dl=1, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, http://live.m2.tv/hls3/720/stream.m3u8
-
-
+Hit FM, https://radioclub.ua/upload/images/stations/2023/79/82/657335ff5cf84_Logo_HitFM.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
+Hit FM Українські хіти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
+Hit FM Найбільші хіти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_best.png, https://online.hitfm.ua/HitFM_Best_HD, https://scraper.onlineradiobox.com/ua.hitfmtop
+Hit FM Сучасні хіти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_top.png, https://online.hitfm.ua/HitFM_Top_HD, https://scraper.onlineradiobox.com/ua.hitfmbest
