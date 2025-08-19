@@ -5,6 +5,8 @@
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Є! Радіо,  https://imgpx.com/3HJJ2i7Oj6X3.jpg, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, http://live.m2.tv/hls3/720/stream.m3u8
+Горила FM, https://admin.slukhai.com.ua/uploads/2025/7/1/ac901658-837b-4910-962d-0e6525865289.png, https://stream.gorillafm.com.ua/online/chunklist.m3u8
+Lemon Lime FM, https://admin.slukhai.com.ua/uploads/2025/7/1/70fcfb0a-bdb0-4061-a004-b8269d293508.png, https://stream.lemonlimefm.com.ua/online/chunklist.m3u8
 Hit FM, https://radioclub.ua/upload/images/stations/2023/79/82/657335ff5cf84_Logo_HitFM.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
 Hit FM Українські хіти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
 Hit FM Найбільші хіти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_best.png, https://online.hitfm.ua/HitFM_Best_HD, https://scraper.onlineradiobox.com/ua.hitfmbest
@@ -15,5 +17,14 @@ Jazz FM Light, https://play.tavr.media/static/image/header_menu/RadioJAZZ_LIGHT_
 Jazz FM Cover, https://play.tavr.media/static/image/header_menu/RadioJAZZ_COVER_228x228.png, https://online.radiojazz.ua/RadioJazz_Cover_HD, https://scraper.onlineradiobox.com/ua.jazzcover
 Jazz FM Groove, https://play.tavr.media/static/image/header_menu/RadioJAZZ_GROOVE_228x228.png, https://online.radiojazz.ua/RadioJazz_Groove_HD, https://scraper.onlineradiobox.com/ua.jazzgroove
 Jazz FM FromUA, https://play.tavr.media/static/image/header_menu/RadioJAZZ_FROMUA_228x228.jpg, https://online.radiojazz.ua/RadioJazz_Ukr_HD, https://scraper.onlineradiobox.com/ua.jazzfromua
-Горила FM, https://admin.slukhai.com.ua/uploads/2025/7/1/ac901658-837b-4910-962d-0e6525865289.png, https://stream.gorillafm.com.ua/online/chunklist.m3u8
-Lemon Lime FM, https://admin.slukhai.com.ua/uploads/2025/7/1/70fcfb0a-bdb0-4061-a004-b8269d293508.png, https://stream.lemonlimefm.com.ua/online/chunklist.m3u8
+Kyivstar | Happy Hits, https://imgpx.com/1SPcvHV6CFPy.png, https://radio.kyivstar.ua/stream/sport/256k.m3u8
+Kyivstar | Golden Hits, https://imgpx.com/4Cb61K29wzYs.png, https://radio.kyivstar.ua/stream/gold/256k.m3u8
+Kyivstar | World Charts, https://imgpx.com/ca7kZPEUuGbW.png, https://radio.kyivstar.ua/stream/worldchart/256k.m3u8
+Kyivstar | Made In Ukraine, https://imgpx.com/3CVSAwXU4o4x.png, https://radio.kyivstar.ua/stream/ukraine/256k.m3u8
+Kyivstar | Made In Ukraine 2, https://imgpx.com/3CVSAwXU4o4x.png, https://listen7.myradio24.com/ukraine
+Kyivstar | Chill & Lounge, https://imgpx.com/P3CIIu3hoHGr.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
+Kyivstar | Top Hits, https://imgpx.com/bYBCwc99g13y.png, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
+Kyivstar | Urban, https://imgpx.com/vvpdmNBqqKa5.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
+Kyivstar | Retro, https://imgpx.com/5zInQmFljUbc.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
+Kyivstar | Rock, https://imgpx.com/hMrMviuiTMFO.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
+Kyivstar | Elektro, https://imgpx.com/JETfkhlNeoGY.png, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
