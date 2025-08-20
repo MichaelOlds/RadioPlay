@@ -28,3 +28,8 @@ Kyivstar | Urban, https://imgpx.com/vvpdmNBqqKa5.png, https://radio.kyivstar.ua/
 Kyivstar | Retro, https://imgpx.com/5zInQmFljUbc.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
 Kyivstar | Rock, https://imgpx.com/hMrMviuiTMFO.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
 Kyivstar | Elektro, https://imgpx.com/JETfkhlNeoGY.png, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
+Sun FM Ukraine, https://static.wixstatic.com/media/196d22_280b5fa65c724e318e5c0f4b3f09a2b2~mv2.jpeg, https://ec5.yesstreaming.net:2225/stream, https://scraper.onlineradiobox.com/ua.sunua
+Sun FM Plus, https://static.wixstatic.com/media/196d22_ca3abd0a532b45bc9eb1aae6e5b812d9~mv2.jpg, https://ec5.yesstreaming.net:3520/stream, https://scraper.onlineradiobox.com/ua.sunfmua
+Sun FM Fresh, https://static.wixstatic.com/media/196d22_f3a1ffdd0d9b4d80bbc4aa2fe47be8fe~mv2.jpg, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
+Sun FM Gold, https://static.wixstatic.com/media/196d22_1a8a4e89f8fd4eee81abedafbb81fe40~mv2.jpeg, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
+Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe70098cf586~mv2.jpeg, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
