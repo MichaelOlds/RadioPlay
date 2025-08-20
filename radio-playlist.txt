@@ -3,6 +3,8 @@
 Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, https://worldradio.online/proxy/?q=http://195.234.148.51:8000/stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
 Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
+Львівська Хвиля, https://static.radioplayer.ua/radioplayer/logo/region/logo_lvivfm.jpg, https://onair.lviv.fm:8443/lviv.fm,
+Тернопільська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_ternopil-fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 Є! Радіо,  https://imgpx.com/3HJJ2i7Oj6X3.jpg, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, https://live.m2.tv/hls3/720/stream.m3u8
 Горила FM, https://admin.slukhai.com.ua/uploads/2025/7/1/ac901658-837b-4910-962d-0e6525865289.png, https://stream.gorillafm.com.ua/online/chunklist.m3u8
