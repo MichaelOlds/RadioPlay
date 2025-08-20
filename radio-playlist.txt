@@ -67,3 +67,7 @@ X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7g
 X-Radio Lounge, https://imgpx.com/XG6d8PJOBQoC.jpg, https://stream.zeno.fm/izblfimb4urtv, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
 X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://stream.zeno.fm/qb2bvromeqbtv, https://scraper.onlineradiobox.com/ua.xonelovehits
+Lounge FM, https://i.obozrevatel.com/radio/fm/2019/7/25/34b.webp?size=480x480, https://cast.mediaonline.net.ua/loungefm320
+Lounge FM Terace, https://www.radiobells.com/stations/loungeterrace.jpg, https://cast.mediaonline.net.ua/terrace320
+Lounge FM Acoustic, https://www.radiobells.com/stations/loungeacoustic.jpg, https://cast.mediaonline.net.ua/acoustic320
+Lounge FM Chill Out, https://www.radiobells.com/stations/loungechillout.jpg, https://cast.mediaonline.net.ua/chillout320
