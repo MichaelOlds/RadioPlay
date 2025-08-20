@@ -18,12 +18,12 @@ Jazz FM Light, https://play.tavr.media/static/image/header_menu/RadioJAZZ_LIGHT_
 Jazz FM Cover, https://play.tavr.media/static/image/header_menu/RadioJAZZ_COVER_228x228.png, https://online.radiojazz.ua/RadioJazz_Cover_HD, https://scraper.onlineradiobox.com/ua.jazzcover
 Jazz FM Groove, https://play.tavr.media/static/image/header_menu/RadioJAZZ_GROOVE_228x228.png, https://online.radiojazz.ua/RadioJazz_Groove_HD, https://scraper.onlineradiobox.com/ua.jazzgroove
 Jazz FM FromUA, https://play.tavr.media/static/image/header_menu/RadioJAZZ_FROMUA_228x228.jpg, https://online.radiojazz.ua/RadioJazz_Ukr_HD, https://scraper.onlineradiobox.com/ua.jazzfromua
-Roks FM,https://play.tavr.media/static/image/header_menu/roks_efir_162x162.png,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.radio.roks
-Roks FM Український рок,https://play.tavr.media/static/image/header_menu/roks_ukrrock_162x16210.png,https://online.radioroks.ua/RadioROKS_Ukr_HD,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.radio.roksua
-Roks FM Новий рок,https://play.tavr.media/static/image/header_menu/roks_newrock_162x162.png,https://online.radioroks.ua/RadioROKS_NewRock_HD,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.radio.roksnew
-Roks FM Класичний рок,https://play.tavr.media/static/image/header_menu/ROKS_ClassicRock_162x162.jpg,https://online.radioroks.ua/RadioROKS_ClassicRock_HD,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.roksclassicrock
-Roks FM Hard'n'Heavy,https://play.tavr.media/static/image/header_menu/roks_hardnheavy_162x162.png,https://online.radioroks.ua/RadioROKS_HardnHeavy_HD,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.radio.rokshard
-Roks FM Рок-Балади,https://play.tavr.media/static/image/header_menu/roks_ballads_162x162.png,https://online.radioroks.ua/RadioROKS_Ballads_HD,https://online.radioroks.ua/RadioROKS_HD,https://scraper.onlineradiobox.com/ua.radio.roksballad
+Roks FM, https://play.tavr.media/static/image/header_menu/roks_efir_162x162.png, https://online.radioroks.ua/RadioROKS_HD, https://scraper.onlineradiobox.com/ua.radio.roks
+Roks FM Український рок, https://play.tavr.media/static/image/header_menu/roks_ukrrock_162x16210.png, https://online.radioroks.ua/RadioROKS_Ukr_HD, https://scraper.onlineradiobox.com/ua.radio.roksua
+Roks FM Новий рок, https://play.tavr.media/static/image/header_menu/roks_newrock_162x162.png, https://online.radioroks.ua/RadioROKS_NewRock_HD, https://scraper.onlineradiobox.com/ua.radio.roksnew
+Roks FM Класичний рок, https://play.tavr.media/static/image/header_menu/ROKS_ClassicRock_162x162.jpg, https://online.radioroks.ua/RadioROKS_ClassicRock_HD, https://scraper.onlineradiobox.com/ua.roksclassicrock
+Roks FM Hard'n'Heavy, https://play.tavr.media/static/image/header_menu/roks_hardnheavy_162x162.png, https://online.radioroks.ua/RadioROKS_HardnHeavy_HD, https://scraper.onlineradiobox.com/ua.radio.rokshard
+Roks FM Рок-Балади, https://play.tavr.media/static/image/header_menu/roks_ballads_162x162.png, https://online.radioroks.ua/RadioROKS_Ballads_HD, https://scraper.onlineradiobox.com/ua.radio.roksballad
 RadioРок,https://imgpx.com/gzsKUfQ9TT5H.jpg,https://rockradioua.online:8433/rock_256,https://scraper.onlineradiobox.com/ua.rock
 RadioРок Metal,https://imgpx.com/dXiXbASrFil7.jpg,https://rockradioua.online:8433/metal_256,https://scraper.onlineradiobox.com/ua.garta
 Kyivstar | Happy Hits, https://imgpx.com/1SPcvHV6CFPy.png, https://radio.kyivstar.ua/stream/sport/256k.m3u8
