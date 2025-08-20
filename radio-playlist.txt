@@ -34,12 +34,12 @@ Sun FM Plus, https://static.wixstatic.com/media/196d22_ca3abd0a532b45bc9eb1aae6e
 Sun FM Fresh, https://static.wixstatic.com/media/196d22_f3a1ffdd0d9b4d80bbc4aa2fe47be8fe~mv2.jpg, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
 Sun FM Gold, https://static.wixstatic.com/media/196d22_1a8a4e89f8fd4eee81abedafbb81fe40~mv2.jpeg, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
 Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe70098cf586~mv2.jpeg, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
-Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, http://live.radioec.com.ua:8000/kievhi
-Країна FM Rock, https://krainafm.com.ua/wp-content/uploads/2017/12/rock.png, http://185.65.245.34:8000/rock
-Країна FM Лірика, https://krainafm.com.ua/wp-content/uploads/2017/12/lirika.png, http://185.65.245.34:8000/lyrica
-Країна FM Дрімайко, https://krainafm.com.ua/wp-content/uploads/2017/12/drimaiko.png, http://185.65.245.34:8000/drimayko
-Країна FM Ритмотека, https://krainafm.com.ua/wp-content/uploads/2017/12/ritmoteka.png, http://185.65.245.34:8000/ritmoteka
-Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, http://185.65.245.34:8000/krainamriy
+Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, https://worldradio.online/proxy/?q=http://live.radioec.com.ua:8000/kievhi
+Країна FM Rock, https://krainafm.com.ua/wp-content/uploads/2017/12/rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock
+Країна FM Лірика, https://krainafm.com.ua/wp-content/uploads/2017/12/lirika.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica
+Країна FM Дрімайко, https://krainafm.com.ua/wp-content/uploads/2017/12/drimaiko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
+Країна FM Ритмотека, https://krainafm.com.ua/wp-content/uploads/2017/12/ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
+Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
 X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
 X-Radio Lounge, https://imgpx.com/XG6d8PJOBQoC.jpg, https://stream.zeno.fm/izblfimb4urtv, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
