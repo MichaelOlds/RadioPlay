@@ -38,3 +38,9 @@ X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7g
 X-Radio Lounge, https://imgpx.com/XG6d8PJOBQoC.jpg, https://stream.zeno.fm/izblfimb4urtv, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
 X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://stream.zeno.fm/qb2bvromeqbtv, https://scraper.onlineradiobox.com/ua.xonelovehits
+Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, http://live.radioec.com.ua:8000/kievhi
+Країна FM Rock, https://krainafm.com.ua/wp-content/uploads/2017/12/rock.png, http://185.65.245.34:8000/rock
+Країна FM Лірика, https://krainafm.com.ua/wp-content/uploads/2017/12/lirika.png, http://185.65.245.34:8000/lyrica
+Країна FM Дрімайко, https://krainafm.com.ua/wp-content/uploads/2017/12/drimaiko.png, http://185.65.245.34:8000/drimayko
+Країна FM Ритмотека, https://krainafm.com.ua/wp-content/uploads/2017/12/ritmoteka.png, http://185.65.245.34:8000/ritmoteka
+Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, http://185.65.245.34:8000/krainamriy
