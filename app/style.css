@@ -213,9 +213,7 @@ html[dir=rtl] .app__logo-wrapper {
     position: left;
   }
   .app__buttons--mobile {
-    display: flex;
-    justify-content: center;
-  }
+    display: none;
   .app__buttons--desktop {
     display: none;
   }
