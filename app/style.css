@@ -208,7 +208,7 @@ html[dir=rtl] .app__logo-wrapper {
 }
 @media (max-width: 768px) {
   .app__buttons {
-    margin-left: -20;
+    margin-left: -70;
     margin-bottom: 64px;
   }
   .app__buttons--mobile {
@@ -219,30 +219,20 @@ html[dir=rtl] .app__logo-wrapper {
     display: none;
   }
 }
-.app__button-play img {
+.app__button-download img {
   width: 176.4px;
 }
-.app__button-ios img {
-  width: 140px;
-}
-.app__button-web {
-  margin-left: 12px;
-}
 .app__button-web img {
-  width: 157px;
+  width: 176.4px;
+  margin-left: 10px;
 }
 @media (max-width: 768px) {
-  .app__button-play img {
+  .app__button-download img {
     width: 126px;
   }
-  .app__button-ios img {
-    width: 100px;
-  }
-  .app__button-web {
-    margin-left: 8px;
-  }
   .app__button-web img {
-    width: 112px;
+    width: 126px;
+    margin-left: 10px;
   }
 }
 .app__section-title {
