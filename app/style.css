@@ -201,14 +201,14 @@ html[dir=rtl] .app__logo-wrapper {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-left: -16.8px;
+  margin-left: -9.8px;
 }
 .app__buttons--mobile {
   display: none;
 }
 @media (max-width: 768px) {
   .app__buttons {
-    margin-left: 0;
+    margin-left: -20;
     margin-bottom: 64px;
   }
   .app__buttons--mobile {
