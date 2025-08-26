@@ -211,7 +211,8 @@ html[dir=rtl] .app__logo-wrapper {
     margin-left: 0;
     margin-bottom: 64px;
   }
-  .display: flex;
+    .app__buttons--mobile {
+    display: flex;
     justify-content: flex-start;
   }
   .app__buttons--desktop {
