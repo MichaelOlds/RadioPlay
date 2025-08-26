@@ -212,7 +212,7 @@ html[dir=rtl] .app__logo-wrapper {
     margin-bottom: 64px;
   }
   .display: flex;
-    justify-content: left;
+    justify-content: center;
   }
   .app__buttons--desktop {
     display: none;
