@@ -208,7 +208,7 @@ html[dir=rtl] .app__logo-wrapper {
 }
 @media (max-width: 768px) {
   .app__buttons {
-    margin-left: -100;
+    margin-left: -140;
     margin-bottom: 64px;
   }
   .app__buttons--mobile {
