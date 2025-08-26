@@ -208,12 +208,12 @@ html[dir=rtl] .app__logo-wrapper {
 }
 @media (max-width: 768px) {
   .app__buttons {
-    margin-right: 4;
-    margin-bottom: 66px;
-    position: left;
+    margin-left: 0;
+    margin-bottom: 64px;
   }
-  .app__buttons--mobile {
-    display: none;
+  .display: flex;
+    justify-content: left;
+  }
   .app__buttons--desktop {
     display: none;
   }
