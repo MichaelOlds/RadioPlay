@@ -73,3 +73,4 @@ Lounge FM Acoustic, https://imgpx.com/EZlK4QhL3c6Z.jpg, https://cast.mediaonline
 Lounge FM Chill Out, https://imgpx.com/0A0GCVSt3XCh.jpg, https://cast.mediaonline.net.ua/chillout320
 Radio Сільпо, https://hls.radio.silpo.ua/imgs/3322222.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 Radio Аврора, https://imgpx.com/nb7eQwwb2Kvi.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
+MFM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_mfm.jpg, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
