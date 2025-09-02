@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RadioPlay</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0e0e0;
+            color: #000000;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            margin: 0;
+        }
+        body.dark-theme {
+            background-color: #212121;
+            color: #ffffff;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+        .radio-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            gap: 10px;
+        }
+        .radio-item {
+            display: flex;
+            align-items: center;
+            background: #f0f0f0;
+            border-radius: 15px;
+            box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+            padding: 10px;
+            transition: all 0.3s ease;
+            flex: 0 1 calc(33.333% - 10px);
+            box-sizing: border-box;
+        }
+        .radio-item:hover {
+            box-shadow: 2px 2px 10px #aaaaaa, -2px -2px 10px #ffffff;
+        }
+        .radio-logo {
+            width: 60px;
+            height: 60px;
+            border-radius: 10px;
+            margin-right: 10px;
+        }
+        .radio-item.dark-theme {
+            background: #333333;
+            color: #ffffff;
+            box-shadow: 5px 5px 15px #000000, -5px -5px 15px #444444;
+        }
+        .player {
+            display: flex;
+            align-items: center;
+            background: #e0e0e0;
+            border-radius: 18px 18px 0 0;
+            box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+            padding: 0 10px;
+            position: fixed;
+            bottom: 0;
+            width: calc(100% - 20px);
+            height: 65px;
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+        .player.hidden {
+            display: none;
+        }
+        .player.dark-theme {
+            background: #333333;
+            box-shadow: 5px 5px 15px #000000, -5px -5px 15px #444444;
+        }
+        .player-logo {
+            width: 53px;
+            height: 53px;
+            border-radius: 8px;
+            margin-right: 7px;
+        }
+        .player-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .player-info h3 {
+            font-size: 16px;
+            margin: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        #player-track {
+            font-size: 12px;
+            color: #888;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .player-controls {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+        }
+        .player-controls button {
+            background: none;
+            border: none;
+            margin: 0 5px;
+            cursor: pointer;
+            font-size: 16px;
+            color: #606060;
+            transition: color 0.3s ease;
+        }
+        .player-controls button:hover {
+            color: #000000;
+        }
+        .player-controls button.dark-theme {
+            color: #aaaaaa;
+        }
+        .theme-toggle {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            border: 2px solid #212121;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 5px rgba(0,0,0,0.3);
+        }
+        .theme-toggle.dark {
+            background-color: #212121;
+        }
+        @media (max-width: 768px) {
+            .radio-item {
+                flex: 0 1 100%;
+            }
+            .player {
+                height: 63px;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div id="radio-list" class="radio-list"></div>
+    </div>
+    <div id="player" class="player hidden">
+        <img id="player-logo" src="" alt="Radio Logo" class="player-logo">
+        <div class="player-info">
+            <h3 id="player-name">Назва Радіо</h3>
+            <small id="player-track"></small>
+        </div>
+        <div class="player-controls">
+            <button id="prev-btn"><i class="fas fa-backward"></i></button>
+            <button id="play-pause-btn"><i class="fas fa-play"></i></button>
+            <button id="next-btn"><i class="fas fa-forward"></i></button>
+        </div>
+    </div>
+    <button class="theme-toggle" id="theme-toggle"></button>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const radioListContainer = document.getElementById('radio-list');
+    const player = document.getElementById('player');
+    const playerLogo = document.getElementById('player-logo');
+    const playerName = document.getElementById('player-name');
+    const playerTrack = document.getElementById('player-track');
+    const playPauseBtn = document.getElementById('play-pause-btn');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const themeToggle = document.getElementById('theme-toggle');
+
+    let radioStations = [];
+    let currentStationIndex = null;
+    let isPlaying = false;
+    const audio = new Audio();
+
+    // Контроль оновлень (щоб не підтягувався "чужий" API)
+    let trackUpdateTimer = null;
+    let currentUpdateController = null;
+    let currentUpdateToken = 0; // зростає при кожному перемиканні
+
+    fetch('radio-playlist.txt')
+        .then(response => response.text())
+        .then(data => {
+            radioStations = data
+                .trim()
+                .split('\n')
+                .map(line => {
+                    const [name, logo, stream, api] = line.split(',').map(item => item.trim());
+                    return { name, logo, stream, api };
+                });
+            displayRadioStations();
+            const isDark = localStorage.getItem('isDarkTheme') === 'true';
+            if (isDark) updateThemeElements(true);
+        });
+
+    function displayRadioStations() {
+        radioListContainer.innerHTML = '';
+        radioStations.forEach((station, index) => {
+            const radioItem = document.createElement('div');
+            radioItem.classList.add('radio-item');
+            radioItem.innerHTML = `
+                <img src="${station.logo}" alt="${station.name}" class="radio-logo">
+                <div><strong>${station.name}</strong></div>
+            `;
+            radioItem.addEventListener('click', () => playStation(index));
+            radioListContainer.appendChild(radioItem);
+        });
+    }
+
+    function playStation(index) {
+        if (currentStationIndex !== index) {
+            currentStationIndex = index;
+
+            // Зупинити попередні оновлення треку
+            if (trackUpdateTimer) {
+                clearTimeout(trackUpdateTimer);
+                trackUpdateTimer = null;
+            }
+            if (currentUpdateController) {
+                try { currentUpdateController.abort(); } catch (_) {}
+                currentUpdateController = null;
+            }
+            currentUpdateToken++;
+
+            // Встановити дані поточної станції (без зміни постера з API)
+            const station = radioStations[index];
+            audio.src = station.stream;
+            playerLogo.src = station.logo;
+            playerName.textContent = station.name;
+            playerTrack.textContent = 'Завантаження треку...';
+            document.title = station.name;
+
+            // Почати відтворення
+            isPlaying = true;
+            audio.play().catch(() => {});
+            playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+            player.classList.remove('hidden');
+
+            // Запустити оновлення треку тільки для цієї станції
+            startTrackUpdates(station.api);
+        } else {
+            togglePlayPause();
+        }
+    }
+
+    function startTrackUpdates(apiUrl) {
+        // Якщо у станції немає API — нічого не тягнемо
+        if (!apiUrl) {
+            playerTrack.textContent = '—';
+            return;
+        }
+
+        let lastUpdated = 0;
+        let sameTrackCount = 0;
+        const myToken = ++currentUpdateToken; // локальний токен для цієї сесії оновлень
+
+        const poll = async () => {
+            // Якщо перемкнули станцію — припиняємо
+            if (myToken !== currentUpdateToken) return;
+
+            // Підготувати контролер для можливості abort при перемиканні
+            currentUpdateController = new AbortController();
+            const { signal } = currentUpdateController;
+
+            try {
+                const res = await fetch(`${apiUrl}?l=${lastUpdated}`, { signal });
+                if (!res.ok) throw new Error('Bad response');
+                const data = await res.json();
+
+                // Якщо перемкнули станцію — ігноруємо результат
+                if (myToken !== currentUpdateToken) return;
+
+                if (data.updated && data.updated !== lastUpdated) {
+                    lastUpdated = data.updated;
+                    sameTrackCount = 0;
+
+                    const title = data.title || 'Невідомий трек';
+                    playerTrack.textContent = title;
+
+                    // НЕ змінюємо playerLogo тут — постер з API не використовується
+                    document.title = `${radioStations[currentStationIndex].name} — ${title}`;
+                } else {
+                    sameTrackCount++;
+                    if (sameTrackCount > 10) {
+                        // Занадто довго без змін — припиняємо опитування
+                        return;
+                    }
+                }
+
+                // Наступне опитування
+                trackUpdateTimer = setTimeout(poll, 1000);
+            } catch (err) {
+                // Якщо це abort через перемикання — тихо виходимо
+                if (err && err.name === 'AbortError') return;
+
+                // Похибка мережі: коротка пауза і повтор
+                playerTrack.textContent = '—';
+                trackUpdateTimer = setTimeout(poll, 2000);
+            }
+        };
+
+        poll();
+    }
+
+    function togglePlayPause() {
+        if (isPlaying) {
+            audio.pause();
+            playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+        } else {
+            audio.play().catch(() => {});
+            playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+        }
+        isPlaying = !isPlaying;
+    }
+
+    function playNextStation() {
+        if (!radioStations.length) return;
+        const nextIndex = (currentStationIndex === null) ? 0 : (currentStationIndex + 1) % radioStations.length;
+        playStation(nextIndex);
+    }
+
+    function playPrevStation() {
+        if (!radioStations.length) return;
+        const prevIndex = (currentStationIndex === null)
+            ? 0
+            : (currentStationIndex - 1 + radioStations.length) % radioStations.length;
+        playStation(prevIndex);
+    }
+
+    playPauseBtn.addEventListener('click', togglePlayPause);
+    nextBtn.addEventListener('click', playNextStation);
+    prevBtn.addEventListener('click', playPrevStation);
+
+    themeToggle.addEventListener('click', () => {
+        const isDark = !document.body.classList.contains('dark-theme');
+        document.body.classList.toggle('dark-theme', isDark);
+        themeToggle.classList.toggle('dark', isDark);
+        updateThemeElements(isDark);
+        localStorage.setItem('isDarkTheme', isDark);
+    });
+
+    function updateThemeElements(isDark) {
+        document.body.style.backgroundColor = isDark ? '#212121' : '#e0e0e0';
+        themeToggle.style.backgroundColor = isDark ? '#212121' : 'white';
+        document.querySelectorAll('.radio-item').forEach(item => {
+            item.classList.toggle('dark-theme', isDark);
+        });
+        player.classList.toggle('dark-theme', isDark);
+        document.querySelectorAll('.player-controls button').forEach(button => {
+            button.classList.toggle('dark-theme', isDark);
+        });
+    }
+
+    audio.addEventListener('ended', () => {
+        playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+        isPlaying = false;
+    });
+});
+</script>
+</body>
+</html>
