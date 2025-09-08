@@ -29,7 +29,7 @@ Kiss FM, https://cdn-profiles.tunein.com/s104870/images/logod.png?t=636403, http
 Kiss FM Ukraine, https://play.tavr.media/static/image/header_menu/kiss_ukrainian_210x210.png, https://online.kissfm.ua/KissFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.kissfmukrainian
 Kiss FM Deep, https://play.tavr.media/static/image/header_menu/kiss_deep_210x210.png, https://online.kissfm.ua/KissFM_Deep_HD, https://scraper.onlineradiobox.com/ua.kissfmdeep
 Kiss FM Digital, https://play.tavr.media/static/image/header_menu/kiss_digital_210x210.png, https://online.kissfm.ua/KissFM_Digital_HD, https://scraper.onlineradiobox.com/ua.kissfmdigital
-Jazz FM, https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png, https://online.radiojazz.ua/RadioJazz_HD
+Jazz FM, https://upload.wikimedia.org/wikipedia/commons/6/63/Radio_Jazz.png, https://online.radiojazz.ua/RadioJazz_HD, https://scraper.onlineradiobox.com/ua.jazz
 Jazz FM Gold, https://play.tavr.media/static/image/header_menu/RadioJAZZ_GOLD_228x228.png, https://online.radiojazz.ua/RadioJazz_Gold_HD, https://scraper.onlineradiobox.com/ua.jazzgold
 Jazz FM Light, https://play.tavr.media/static/image/header_menu/RadioJAZZ_LIGHT_228x228.png, https://online.radiojazz.ua/RadioJazz_Light_HD, https://scraper.onlineradiobox.com/ua.jazzlight
 Jazz FM Cover, https://play.tavr.media/static/image/header_menu/RadioJAZZ_COVER_228x228.png, https://online.radiojazz.ua/RadioJazz_Cover_HD, https://scraper.onlineradiobox.com/ua.jazzcover
