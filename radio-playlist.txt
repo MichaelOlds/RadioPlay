@@ -1,8 +1,8 @@
 Місто над бугом, https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg, https://stream.mistonadbugom.com.ua/radiomistonadbugom, https://scraper.onlineradiobox.com/ua.mistonadbugom
 Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, https://stream.radiodim.com/stream/svit-fm-radiodim, https://scraper.onlineradiobox.com/ua.svit
 Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, https://stream.radiodim.com/stream/zakarpattya-fm-radiodim, https://scraper.onlineradiobox.com/ua.zakarpattya
-Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
 Radio 7, https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg, https://media2.streambrothers.com:8034/stream
+Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
 Пульс FM, https://static.mytuner.mobi/media/tvos_radios/xycaxmra5j4z.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Львівська Хвиля, https://static.radioplayer.ua/radioplayer/logo/region/logo_lvivfm.jpg, https://onair.lviv.fm:8443/lviv.fm,
@@ -81,9 +81,7 @@ Radio Paradise Mellow Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhz
 Radio Paradise Rock Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/rock-320, https://scraper.onlineradiobox.com/us.paradiserockmix
 Radio Paradise Serenity, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/serenity, https://scraper.onlineradiobox.com/us.paradiseserenity
 Radio Paradise Beyond, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/beyond-320, https://scraper.onlineradiobox.com/us.paradisebeyond
-
 Trance Radio, https://imgpx.com/HTbfHMLTRwPj.jpg, https://radio.hearme.fm:8100/stream, https://scraper.onlineradiobox.com/uk.trance
-
 LITT Live - Lofi, https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png, https://das-sa39.cdnstream1.com/5582_128, https://scraper.onlineradiobox.com/us.dashsubdustrial
 Lofi 24/7, https://www.allradio.net/500/DAUx351AUDMcWElHJOlxg.webp, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate1
 Lofi Hip Hop, https://stream-158.zeno.fm/0r0xa792kwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcjB4YTc5Mmt3enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InJRZGhWWTN1VFRXelpvRUlwR1Y4WVEiLCJpYXQiOjE3NTY5NjczOTEsImV4cCI6MTc1Njk2NzQ1MX0.z-BSytirSN1hGrHN6nV_YYNvKaZgn-5FTFrT7gCWdCc, https://scraper.onlineradiobox.com/us.lofihiphop
