@@ -2,6 +2,8 @@
 Світ FM, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdiXSeRow54-ra-bOvvghfDTG_0461PJmQ&usqp=CAU, https://worldradio.online/proxy/?q=http://195.234.148.52:8000/stream.mp3, https://scraper.onlineradiobox.com/ua.svit
 Закарпаття FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_zakarpattyafm.png, https://worldradio.online/proxy/?q=http://195.234.148.51:8000/stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
 Захід FM+, https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
+Radio 7, https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg, https://media2.streambrothers.com:8034/stream
+Пульс FM, https://static.mytuner.mobi/media/tvos_radios/xycaxmra5j4z.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Львівська Хвиля, https://static.radioplayer.ua/radioplayer/logo/region/logo_lvivfm.jpg, https://onair.lviv.fm:8443/lviv.fm,
 Тернопільська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_ternopil-fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
