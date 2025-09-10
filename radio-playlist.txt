@@ -86,3 +86,11 @@ LITT Live - Lofi, https://dashradio-files.s3.amazonaws.com/development/icon_logo
 Lofi 24/7, https://www.allradio.net/500/DAUx351AUDMcWElHJOlxg.webp, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate
 Lofi Hip Hop, https://imgpx.com/v8eO1wACtkc7.jpg, https://stream.zeno.fm/0r0xa792kwzuv, https://scraper.onlineradiobox.com/us.lofihiphop
 Лофіко, https://imgpx.com/g0riTK7jmhPJ.png, https://listen4.myradio24.com/49731, https://scraper.onlineradiobox.com/ua.fayne
+DJFM, https://api.radiodim.rv.ua/images/radios/650_644a9637-1765-4779-acfe-e5b154666ab6.png, https://cast.brg.ua/djfm_main_public_mp3_hq
+DJFM Dance, https://api.radiodim.rv.ua/images/radios/650_a41bab4d-bbae-4185-a4f5-7efc18e1c16e.png, https://cast.brg.ua/djfmdance_main_public_mp3_hq
+Шлягер FM, https://cast.brg.ua/shanson_main_public_mp3_hq
+Перець FM, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/radio-stilnoe, https://scraper.onlineradiobox.com/ua.stilnoe.fm
+Перець FM Romantique, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/romantique
+Magic Radio, https://static.radioplayer.ua/radioplayer/logo/efir/logo_magic.jpg, https://cast.brg.ua/business_main_public_mp3_hq
+Power FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_powerfm.png, https://cast.brg.ua/powerfm_main_public_mp3_hq
+Radio Shanson, https://static.radioplayer.ua/radioplayer/logo/online/logo_shanson.png, https://cast.brg.ua/newshanson_main_public_mp3_hq
