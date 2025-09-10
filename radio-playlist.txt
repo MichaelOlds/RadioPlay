@@ -104,7 +104,7 @@ PulseBIT Radio, https://static2.mytuner.mobi/media/tvos_radios/eXCcYB2Nvw.png, h
 Good morning Ukraine, https://imgpx.com/YyAqEcIwnCp7.jpg, https://stream.zeno.fm/hvbt18f2ekhvv
 Ukrainian Voice, https://imgpx.com/Bja9WyC7pKsw.jpg, https://stream.zeno.fm/gdcgcgk6v0hvv
 Україна Live, https://imgpx.com/UvWn27yhWlBG.png, https://stream.zeno.fm/yfdnvuzsxhhvv
-Тризуб FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_tryzubfm.png, http://46.98.11.2:8000/radio320.mp3, https://scraper.onlineradiobox.com/ua.tryzubfm
-Радіо ТАКТ, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiotakt.png, https://scraper.onlineradiobox.com/ua.tank
+Тризуб FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_tryzubfm.png, https://worldradio.online/proxy/?q=http://46.98.11.2:8000/radio320.mp3, https://scraper.onlineradiobox.com/ua.tryzubfm
+Радіо ТАКТ, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiotakt.png, https://play.radiotakt.com.ua, https://scraper.onlineradiobox.com/ua.tank
 Радіо кордон, https://static.radioplayer.ua/radioplayer/logo/online/logo_radio-kordon.png, https://radio.dpsu.gov.ua
 Армія FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_army-fm.png, https://icecast.armyfm.com.ua:8443/ArmyFM_320
