@@ -59,7 +59,7 @@ Sun FM Plus, https://static.wixstatic.com/media/196d22_ca3abd0a532b45bc9eb1aae6e
 Sun FM Fresh, https://static.wixstatic.com/media/196d22_f3a1ffdd0d9b4d80bbc4aa2fe47be8fe~mv2.jpg, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
 Sun FM Gold, https://static.wixstatic.com/media/196d22_1a8a4e89f8fd4eee81abedafbb81fe40~mv2.jpeg, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
 Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe70098cf586~mv2.jpeg, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
-Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, https://worldradio.online/proxy/?q=http://live.radioec.com.ua:8000/kievhi
+Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, https://live2.radioec.com.ua/kiev320s.mp3
 Країна FM Rock, https://krainafm.com.ua/wp-content/uploads/2017/12/rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock, https://scraper.onlineradiobox.com/ua.krainafmrock
 Країна FM Лірика, https://krainafm.com.ua/wp-content/uploads/2017/12/lirika.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica, https://scraper.onlineradiobox.com/ua.krainafmlyrica
 Країна FM Дрімайко, https://krainafm.com.ua/wp-content/uploads/2017/12/drimaiko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
@@ -100,8 +100,7 @@ Rock Radio, https://api.radiodim.rv.ua/images/radios/650_a16a94b3-e947-4707-b051
 Cyberpank, https://imgpx.com/3Y2rccfg4Ppf.jpg, https://stream.zeno.fm/v7n9vjda8zxvv 
 Radio Phonk, https://i.playboard.app/p/zkGIT0qVfG1xDSS5wz_q5CuI1Rl8r6d1Ub9q-QTlh5c3OdOgpkZZGo0BhYPVq6kn-7tO3gA1lQ/default.jpg, https://stream.zeno.fm/szvlnbl4s5ntv
 3DX Sammie Party House, https://zeno.fm/_ipx/_/https://images.zeno.fm/ITLs0ApQgc64XTWrFPbfYzoPZwJNYV8QlQsQdXueMMY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjAxZDNhODEtN2NkZS00NTE1LWE1YWMtODkxMzMxODY0MDVkL2ltYWdlLz91PTE2OTUyMjM2NTUwMDA.webp, https://stream.zeno.fm/nj7zzztmmttuv
-PulseBIT Radio, https://static2.mytuner.mobi/media/tvos_radios/eXCcYB2Nvw.png, 
-https://stream.zeno.fm/lyhyqrjesrptv
+PulseBIT Radio, https://static2.mytuner.mobi/media/tvos_radios/eXCcYB2Nvw.png, https://stream.zeno.fm/lyhyqrjesrptv
 Good morning Ukraine, https://imgpx.com/YyAqEcIwnCp7.jpg, https://stream.zeno.fm/hvbt18f2ekhvv
 Ukrainian Voice, https://imgpx.com/Bja9WyC7pKsw.jpg, https://stream.zeno.fm/gdcgcgk6v0hvv
 Україна Live, https://imgpx.com/UvWn27yhWlBG.png, https://stream.zeno.fm/yfdnvuzsxhhvv
