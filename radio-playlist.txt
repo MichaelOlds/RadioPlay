@@ -88,7 +88,7 @@ Lofi Hip Hop, https://imgpx.com/v8eO1wACtkc7.jpg, https://stream.zeno.fm/0r0xa79
 Лофіко, https://imgpx.com/g0riTK7jmhPJ.png, https://listen4.myradio24.com/49731, https://scraper.onlineradiobox.com/ua.fayne
 DJFM, https://api.radiodim.rv.ua/images/radios/650_644a9637-1765-4779-acfe-e5b154666ab6.png, https://cast.brg.ua/djfm_main_public_mp3_hq
 DJFM Dance, https://api.radiodim.rv.ua/images/radios/650_a41bab4d-bbae-4185-a4f5-7efc18e1c16e.png, https://cast.brg.ua/djfmdance_main_public_mp3_hq
-Шлягер FM, https://cast.brg.ua/shanson_main_public_mp3_hq
+Шлягер FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_shlager-fm.jpg, https://cast.brg.ua/shanson_main_public_mp3_hq
 Перець FM, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/radio-stilnoe, https://scraper.onlineradiobox.com/ua.stilnoe.fm
 Перець FM Romantique, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/romantique
 Magic Radio, https://static.radioplayer.ua/radioplayer/logo/efir/logo_magic.jpg, https://cast.brg.ua/business_main_public_mp3_hq
@@ -99,7 +99,7 @@ Jazz Radio, https://zeno.fm/_ipx/_/https://images.zeno.fm/hPETygRZPQpOZ-dRaux3vR
 Rock Radio, https://api.radiodim.rv.ua/images/radios/650_a16a94b3-e947-4707-b051-c9c7f499e807.png, https://stream.zeno.fm/r6o4xljca6cvv
 Cyberpank, https://imgpx.com/3Y2rccfg4Ppf.jpg, https://stream.zeno.fm/v7n9vjda8zxvv 
 Radio Phonk, https://i.playboard.app/p/zkGIT0qVfG1xDSS5wz_q5CuI1Rl8r6d1Ub9q-QTlh5c3OdOgpkZZGo0BhYPVq6kn-7tO3gA1lQ/default.jpg, https://stream.zeno.fm/szvlnbl4s5ntv
-3DX Sammie Party House, https://zeno.fm/_ipx/_/https://images.zeno.fm/ITLs0ApQgc64XTWrFPbfYzoPZwJNYV8QlQsQdXueMMY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjAxZDNhODEtN2NkZS00NTE1LWE1YWMtODkxMzMxODY0MDVkL2ltYWdlLz91PTE2OTUyMjM2NTUwMDA.webp, https://stream.zeno.fm/nj7zzztmhttps://radio.hearme.fm:8100/streammttuv
+3DX Sammie Party House, https://zeno.fm/_ipx/_/https://images.zeno.fm/ITLs0ApQgc64XTWrFPbfYzoPZwJNYV8QlQsQdXueMMY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjAxZDNhODEtN2NkZS00NTE1LWE1YWMtODkxMzMxODY0MDVkL2ltYWdlLz91PTE2OTUyMjM2NTUwMDA.webp, https://stream.zeno.fm/nj7zzztmmttuv
 PulseBIT Radio, https://static2.mytuner.mobi/media/tvos_radios/eXCcYB2Nvw.png, 
 https://stream.zeno.fm/lyhyqrjesrptv
 Good morning Ukraine, https://imgpx.com/YyAqEcIwnCp7.jpg, https://stream.zeno.fm/hvbt18f2ekhvv
