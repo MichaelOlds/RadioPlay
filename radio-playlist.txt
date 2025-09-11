@@ -99,6 +99,9 @@ Jazz Radio, https://zeno.fm/_ipx/_/https://images.zeno.fm/hPETygRZPQpOZ-dRaux3vR
 Rock Radio, https://api.radiodim.rv.ua/images/radios/650_a16a94b3-e947-4707-b051-c9c7f499e807.png, https://stream.zeno.fm/r6o4xljca6cvv
 Cyberpank, https://imgpx.com/3Y2rccfg4Ppf.jpg, https://stream.zeno.fm/v7n9vjda8zxvv 
 Radio Phonk, https://i.playboard.app/p/zkGIT0qVfG1xDSS5wz_q5CuI1Rl8r6d1Ub9q-QTlh5c3OdOgpkZZGo0BhYPVq6kn-7tO3gA1lQ/default.jpg, https://stream.zeno.fm/szvlnbl4s5ntv
+LibertyMP Phonk, https://imgpx.com/fdkL2sQfpQM0.jpg, https://hs1.radiolibertymp.ro/listen/lmpphonk/stream.mp3, https://scraper.onlineradiobox.com/ro.libertympphonk
+DeepPhonk, https://imgpx.com/X2YIKNoiedL5.jpg, https://n04a-eu.rcs.revma.com/vzx3q9762quvv
+Phonk & Game, https://imgpx.com/B2mTyrDpKh2r.jpg, https://scraper.onlineradiobox.com/us.hillchillrealdrift
 3DX Sammie Party House, https://zeno.fm/_ipx/_/https://images.zeno.fm/ITLs0ApQgc64XTWrFPbfYzoPZwJNYV8QlQsQdXueMMY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjAxZDNhODEtN2NkZS00NTE1LWE1YWMtODkxMzMxODY0MDVkL2ltYWdlLz91PTE2OTUyMjM2NTUwMDA.webp, https://stream.zeno.fm/nj7zzztmmttuv
 PulseBIT Radio, https://static2.mytuner.mobi/media/tvos_radios/eXCcYB2Nvw.png, https://stream.zeno.fm/lyhyqrjesrptv
 Good morning Ukraine, https://imgpx.com/YyAqEcIwnCp7.jpg, https://stream.zeno.fm/hvbt18f2ekhvv
