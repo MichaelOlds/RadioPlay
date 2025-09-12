@@ -135,9 +135,9 @@ Ukrainian Voice, https://imgpx.com/Bja9WyC7pKsw.jpg, https://stream.zeno.fm/gdcg
 Українське радіо Крим, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne1.png, https://radio.ukr.radio/ur1-cr-mp3
 Голос Донбасу, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne1.png, https://radio.ukr.radio/golosdonbasu-mp3
 Українське радіо International, https://imgpx.com/i6eXdM3XBaMY.jpg, https://radio.ukr.radio/ur4-mp3
-Радіо Культура, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne3.png, https://radio.ukr.radio/ur3-mp3
-Радіо Культура Класика, https://imgpx.com/JPL8u7GhV9pr.jpg, https://radio3.ukr.radio/urclassic-mp3
-Радіо Культура Казка, https://imgpx.com/YCH291p6ZD4Z.jpg, https://radio.ukr.radio/urkazka-mp3
+Радіо Культура, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne3.png, https://radio.ukr.radio/ur3-mp3, https://scraper.onlineradiobox.com/ua.tretykanal
+Радіо Культура Класика, https://imgpx.com/JPL8u7GhV9pr.jpg, https://radio3.ukr.radio/urclassic-mp3, https://scraper.onlineradiobox.com/ua.cultureclassik
+Радіо Культура Казка, https://imgpx.com/YCH291p6ZD4Z.jpg, https://radio.ukr.radio/urkazka-mp3, https://scraper.onlineradiobox.com/ua.culturekazka
 Радіо Промінь, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne2.png, https://radio.ukr.radio/ur2-mp3, https://scraper.onlineradiobox.com/ua.promin
 Радіо Точка, https://static.radioplayer.ua/radioplayer/logo/online/logo_suspilne5.png, https://radio.ukr.radio/ur5-mp3, https://scraper.onlineradiobox.com/ua.tochka
 Радіо Тиса, https://imgpx.com/YpCkmaNiFQdV.jpg, https://radio.ukr.radio/tysafm-mp3
