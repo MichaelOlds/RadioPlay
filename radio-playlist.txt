@@ -9,7 +9,7 @@ Radio 7, https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg, 
 Тернопільська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_ternopil-fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 Є! Радіо,  https://imgpx.com/3HJJ2i7Oj6X3.jpg, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, https://live.m2.tv/hls3/720/stream.m3u8
-Trance is Star,https://i.postimg.cc/Gh1666np/LOGOTIS24.png, https://myradio24.org/ешікфвшщ, https://scraper.onlineradiobox.com/ua.tranceisstar
+Trance is Star, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLIWN89Xceo6O43b1jPMJex2EVLs3onRxPCJgHcMvR4bctS7imufS&usqp=CAE&s, https://myradio24.org/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
 Радіо Байрактар, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-bayraktar.jpg, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
 Hit FM, https://radioclub.ua/upload/images/stations/2023/79/82/657335ff5cf84_Logo_HitFM.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
 Hit FM Українські хти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
