@@ -65,7 +65,7 @@ Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe700
 Країна FM Ритмотека, https://krainafm.com.ua/wp-content/uploads/2017/12/ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
 Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
 X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
-X-Radio Lounge, https://imgpx.com/XG6d8PJOBQoC.jpg, https://stream.zeno.fm/izblfimb4urtv, https://scraper.onlineradiobox.com/ua.xlounge
+X-Radio Lounge, https://xradio.in.ua/wp-content/uploads/2025/06/X-Radio-2.jpg, https://s-us1.srv-control.com/download/6/6/radio.m3u, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
 X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://stream.zeno.fm/qb2bvromeqbtv, https://scraper.onlineradiobox.com/ua.xonelovehits
 Lounge FM, https://imgpx.com/Mguu84IHJSuY.png, https://cast.mediaonline.net.ua/loungefm320
