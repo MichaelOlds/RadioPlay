@@ -90,6 +90,8 @@ Lofi Hip Hop, https://imgpx.com/v8eO1wACtkc7.jpg, https://stream.zeno.fm/0r0xa79
 Лофіко, https://imgpx.com/g0riTK7jmhPJ.png, https://listen4.myradio24.com/49731, https://scraper.onlineradiobox.com/ua.fayne
 DJFM, https://api.radiodim.rv.ua/images/radios/650_644a9637-1765-4779-acfe-e5b154666ab6.png, https://cast.brg.ua/djfm_main_public_mp3_hq
 DJFM Dance, https://api.radiodim.rv.ua/images/radios/650_a41bab4d-bbae-4185-a4f5-7efc18e1c16e.png, https://cast.brg.ua/djfmdance_main_public_mp3_hq
+High Beam Radio, https://imgpx.com/bHxoN2KRfgk1.jpg, https://listen5.myradio24.com/highbeam
+Радіо Кардан, https://static.mytuner.mobi/media/tvos_radios/193/kardan-radio.6245f757.png, https://listen6.myradio24.com/scultio
 Шлягер FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_shlager-fm.jpg, https://cast.brg.ua/shanson_main_public_mp3_hq
 Перець FM, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/radio-stilnoe, https://scraper.onlineradiobox.com/ua.stilnoe.fm
 Перець FM Romantique, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/romantique
