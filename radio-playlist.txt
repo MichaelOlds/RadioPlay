@@ -67,7 +67,7 @@ Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe700
 X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
 X-Radio Lounge, https://xradio.in.ua/wp-content/uploads/2025/06/X-Radio-2.jpg, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
-X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://stream.zeno.fm/qb2bvromeqbtv, https://scraper.onlineradiobox.com/ua.xonelovehits
+X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
 Lounge FM, https://imgpx.com/Mguu84IHJSuY.png, https://cast.mediaonline.net.ua/loungefm320
 Lounge FM Terace, https://imgpx.com/bpBs8uM9EdCo.jpg, https://cast.mediaonline.net.ua/terrace320
 Lounge FM Acoustic, https://imgpx.com/EZlK4QhL3c6Z.jpg, https://cast.mediaonline.net.ua/acoustic320
