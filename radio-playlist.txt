@@ -71,10 +71,13 @@ X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7g
 X-Radio Lounge, https://xradio.in.ua/wp-content/uploads/2025/06/X-Radio-2.jpg, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
 X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
 X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
-Lounge FM, https://imgpx.com/Mguu84IHJSuY.png, https://cast.mediaonline.net.ua/loungefm320
-Lounge FM Terace, https://imgpx.com/bpBs8uM9EdCo.jpg, https://cast.mediaonline.net.ua/terrace320
-Lounge FM Acoustic, https://imgpx.com/EZlK4QhL3c6Z.jpg, https://cast.mediaonline.net.ua/acoustic320
-Lounge FM Chill Out, https://imgpx.com/0A0GCVSt3XCh.jpg, https://cast.mediaonline.net.ua/chillout320
+Lounge FM, https://radioplay.pp.ua/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320
+Lounge FM Terace, https://radioplay.pp.ua/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320
+Lounge FM Acoustic, https://radioplay.pp.ua/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320
+Lounge FM Chill Out, https://radioplay.pp.ua/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320
+Misto FM Deep, https://radioplay.pp.ua/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
+Misto FM Juda, https://radioplay.pp.ua/images/misto_fm_judap.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
+Misto FM Beats, https://radioplay.pp.ua/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
 Radio Сільпо, https://hls.radio.silpo.ua/imgs/3322222.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 Radio Аврора, https://imgpx.com/nb7eQwwb2Kvi.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
 MFM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_mfm.jpg, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
