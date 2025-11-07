@@ -7,7 +7,7 @@ Radio 7, https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg, 
 Галичина FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_galychyna.jpg, https://stream320.galychyna.fm/WebSite
 Львівська Хвиля, https://static.radioplayer.ua/radioplayer/logo/region/logo_lvivfm.jpg, https://onair.lviv.fm:8443/lviv.fm,
 Тернопільська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_ternopil-fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
-Є! Радіо,  https://imgpx.com/3HJJ2i7Oj6X3.jpg, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
+Є! Радіо, https://radioplay.pp.ua/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, https://live.m2.tv/hls3/720/stream.m3u8
 Trance is Star, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLIWN89Xceo6O43b1jPMJex2EVLs3onRxPCJgHcMvR4bctS7imufS&usqp=CAE&s, https://myradio24.org/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
 Радіо Байрактар, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-bayraktar.jpg, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
@@ -69,14 +69,13 @@ Teren FM, https://api.radiodim.rv.ua/images/radios/650_52af7223-7eee-4629-baff-8
 Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
 X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
 X-Radio Lounge, https://xradio.in.ua/wp-content/uploads/2025/06/X-Radio-2.jpg, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
-X-Radio Club, https://imgpx.com/dOS4gEaSYGx7.jpg, https://stream.zeno.fm/c3yf8nzdzm4uv, https://scraper.onlineradiobox.com/ua.xclubshow
 X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
 Lounge FM, https://radioplay.pp.ua/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320
 Lounge FM Terace, https://radioplay.pp.ua/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320
 Lounge FM Acoustic, https://radioplay.pp.ua/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320
 Lounge FM Chill Out, https://radioplay.pp.ua/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320
 Misto FM Deep, https://radioplay.pp.ua/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
-Misto FM Juda, https://radioplay.pp.ua/images/misto_fm_judap.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
+Misto FM Juda, https://radioplay.pp.ua/images/misto_fm_juda.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
 Misto FM Beats, https://radioplay.pp.ua/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
 Radio Сільпо, https://hls.radio.silpo.ua/imgs/3322222.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 Radio Аврора, https://imgpx.com/nb7eQwwb2Kvi.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
