@@ -9,7 +9,8 @@ Radio 7, https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg, 
 Тернопільська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_ternopil-fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 Є! Радіо, https://radioplay.pp.ua/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
 M2 Radio, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/800px-M2_logo.jpg, https://live.m2.tv/hls3/720/stream.m3u8
-Trance is Star, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLIWN89Xceo6O43b1jPMJex2EVLs3onRxPCJgHcMvR4bctS7imufS&usqp=CAE&s, https://myradio24.org/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
+Trance is Star, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLIWN89Xceo6O43b1jPMJex2EVLs3onRxPCJgHcMvR4bctS7imufS&usqp=CAE&s, 
+https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
 Радіо Байрактар, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-bayraktar.jpg, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
 Hit FM, https://radioclub.ua/upload/images/stations/2023/79/82/657335ff5cf84_Logo_HitFM.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
 Hit FM Українські хти, https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
@@ -24,6 +25,7 @@ Relax FM Українською, https://static.radioplayer.ua/radioplayer/logo/
 Relax FM International, https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_int.png, https://online.radiorelax.ua/RadioRelax_Int_HD, https://scraper.onlineradiobox.com/ua.relaxinternational
 Relax FM Cafe, https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_cafe.png, https://online.radiorelax.ua/RadioRelax_Cafe_HD, https://scraper.onlineradiobox.com/ua.radiorelaxcafe
 Relax FM Instrumental, https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_instrumental.png, https://online.radiorelax.ua/RadioRelax_Instrumental_HD, https://scraper.onlineradiobox.com/ua.radiorelaxinstrumental
+Relax FM Christmas, https://radioplay.pp.ua/images/radio_relax_christmas.png, https://online.radiorelax.ua/RadioRelax_Christmas_Live, https://scraper.onlineradiobox.com/ua.relaxchristmas
 Classic Radio, https://static.radioplayer.ua/radioplayer/logo/efir/logo_classicradio.jpg, https://online.classicradio.ua/ClassicRadio_HD, https://scraper.onlineradiobox.com/ua.classicradio
 Black Radio, https://static.radioplayer.ua/radioplayer/logo/online/logo_radioblack.png, https://online.radioplayer.ua/RadioBlack_HD, https://scraper.onlineradiobox.com/ua.black
 Kiss FM, https://cdn-profiles.tunein.com/s104870/images/logod.png?t=636403, https://online.kissfm.ua/KissFM_HD, https://scraper.onlineradiobox.com/ua.kiss.fm
@@ -79,6 +81,8 @@ Misto FM Juda, https://radioplay.pp.ua/images/misto_fm_juda.png, https://stream.
 Misto FM Beats, https://radioplay.pp.ua/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
 Radio Сільпо, https://hls.radio.silpo.ua/imgs/3322222.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 Radio Аврора, https://imgpx.com/nb7eQwwb2Kvi.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
+Радіо Цитрус, https://radioplay.pp.ua/images/radio_citrus.png, https://stream.brandradionetworks.com/citrus, https://scraper.onlineradiobox.com/ua.citrus
+Радіо ВДНГ, https://radioplay.pp.ua/images/radio_vdng.png, https://stream.brandradionetworks.com/vdng
 MFM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_mfm.jpg, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
 Radio Paradise Main Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/mp3-320, https://scraper.onlineradiobox.com/us.radioparadise
 Radio Paradise Mellow Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/mellow-320, https://scraper.onlineradiobox.com/us.paradisemellowmix
@@ -147,9 +151,59 @@ Ukrainian Voice, https://imgpx.com/Bja9WyC7pKsw.jpg, https://stream.zeno.fm/gdcg
 Радіо Промінь, https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne2.png, https://radio.ukr.radio/ur2-mp3, https://scraper.onlineradiobox.com/ua.promin
 Радіо Точка, https://static.radioplayer.ua/radioplayer/logo/online/logo_suspilne5.png, https://radio.ukr.radio/ur5-mp3, https://scraper.onlineradiobox.com/ua.tochka
 Радіо Тиса, https://imgpx.com/YpCkmaNiFQdV.jpg, https://radio.ukr.radio/tysafm-mp3
-Люкс FM, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png, https://icecast.luxnet.ua/lux
-Люкс FM Львів, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png,https://icecast.luxnet.ua/luxlviv
-NRJ FM, https://cast.mediaonline.net.ua/nrj320, https://static.radioplayer.ua/radioplayer/logo/online/logo_nrj.png, https://scraper.onlineradiobox.com/ua.nrj
+Люкс FM, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png, https://icecast.luxnet.ua/lux_hd
+Люкс FM Львів, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png,https://icecast.luxnet.ua/luxlviv_hd
+NRJ FM, https://static.radioplayer.ua/radioplayer/logo/online/logo_nrj.png, https://cast.mediaonline.net.ua/nrj320, https://scraper.onlineradiobox.com/ua.nrj
 Радіо П‘ятниця, https://static.radioplayer.ua/radioplayer/logo/efir/logo_pyatnica.png, https://cast.mediaonline.net.ua/radiopyatnica320, https://scraper.onlineradiobox.com/ua.radiopyatnica
 Радіо NV, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-nv.jpg, https://online-radio.nv.ua/radionv.mp3
 Прямий FM, https://radioua.com.ua/uploads/img/prjamij-fm.jpg, https://cast.mediaonline.net.ua/prmfm320, https://scraper.onlineradiobox.com/ua.pryamiy
+Громадське Радіо, https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1d/97/7d/1d977d0c-1a79-58c7-1f01-3ffb7f96541c/mza_16369205654510359735.jpg/1200x1200bf-60.jpg, https://hromadske.radio/radio_https_upstream
+Maximum FM, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_radio-maximum-2025.jpg, https://icecast.luxnet.ua/maximum_hd, https://scraper.onlineradiobox.com/ua.maximum
+Наше Радіо, https://static.radioplayer.ua/radioplayer/logo/efir/logo_nasheradio-2022.png, https://online.nasheradio.ua/NasheRadio_HD, https://scraper.onlineradiobox.com/ua.nashe.radio
+Наше Радіо Топ 100, https://static.radioplayer.ua/radioplayer/logo/online/logo_nasheradio-ukr.png, https://online.nasheradio.ua/NasheRadio_Ukr_HD, https://scraper.onlineradiobox.com/ua.100
+Авторадіо, https://static.radioplayer.ua/radioplayer/logo/efir/logo_avto-radio.png, https://cast.mediaonline.net.ua/avtoradio320, https://scraper.onlineradiobox.com/ua.avtoradio
+Nostalgie FM, https://static.radioplayer.ua/radioplayer/logo/lux24/logo_radionostalgie.png, https://icecast.luxnet.ua/nostalgie_hd, https://scraper.onlineradiobox.com/ua.nostalgie
+Ми - Україна, https://static.radioplayer.ua/radioplayer/logo/efir/logo_weareukraine.png, https://cast.mediaonline.net.ua/wau320, https://scraper.onlineradiobox.com/ua.weukraine
+Ми з України, https://static.radioplayer.ua/radioplayer/logo/online/logo_radiomzu.jpg, https://stream4.nadaje.com:9889/lux
+Радіо Track, https://static.radioplayer.ua/radioplayer/logo/region/logo_radiotrek.jpg, https://audio.radiotrek.rv.ua, https://scraper.onlineradiobox.com/ua.radiotrek
+Радіо Накипіло, https://static.radioplayer.ua/radioplayer/logo/efir/logo_nakypilo.png, https://radiostream.nakypilo.ua/full, https://scraper.onlineradiobox.com/ua.nakypilo
+Радіо SKOVORODA, https://radioplay.pp.ua/images/radio_skovoroda.png, https://stream.radioskovoroda.com:8000/radioskovoroda, https://scraper.onlineradiobox.com/ua.skovoroda
+Радіо SKOVORODA Music, https://radioplay.pp.ua/images/radio_skovoroda_music.png, https://stream.radioskovoroda.com:8060/skovoroda_music, https://scraper.onlineradiobox.com/ua.skovorodamusic
+Радіо Конкурент, https://radioplay.pp.ua/images/radio_konkurent.png, https://sportradio.com.ua:8000/radiokonkurent, https://scraper.onlineradiobox.com/ua.champion
+Радіо Champion, https://radioplay.pp.ua/images/radio_champion.png, https://sportradio.com.ua:8000//championradio, https://scraper.onlineradiobox.com/ua.champion
+Хвиля Чемпіон, https://radioplay.pp.ua/images/radio_champion.png, https://sportradio.com.ua:8000/hvilyachampion
+Гуцульське Радіо, https://static.radioplayer.ua/radioplayer/logo/efir/logo_hutsulske-radio.png, https://stream320.galychyna.fm/HutsulFM_RP
+БУГ FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-bug.png, https://radio.bug.fm:8000/radioBug, https://scraper.onlineradiobox.com/ua.bug
+RAI FM, https://static.radioplayer.ua/radioplayer/logo/region/logo_rai.jpg, https://radio.rai.ua:9000/rai, https://scraper.onlineradiobox.com/ua.trkrai
+C4 FM, ttps://static.radioplayer.ua/radioplayer/logo/region/logo_c4.png, https://radio.c4.com.ua:8443/320
+Вежа FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiovezha.png, https://listen6.myradio24.com/69829
+Сфера FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_sferafm.png, https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio
+Західний Полюс, https://static.radioplayer.ua/radioplayer/logo/region/logo_zahpolus.jpg, https://online.z-polus.info/hq, https://scraper.onlineradiobox.com/ua.zpolus
+Буковинська Хвиля, https://static.radioplayer.ua/radioplayer/logo/efir/logo_bykovynska.png, https://100.cv.ua:8443/play, https://scraper.onlineradiobox.com/ua.bukwave
+Fresh FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_freshfm.png, https://mu.telelan.com.ua/fresh-fm_mp3
+Явір FM, https://static.radioplayer.ua/radioplayer/logo/region/logo_yavirfm.jpg, https://complex.in.ua/Yavir, https://scraper.onlineradiobox.com/ua.yavir
+Стрий FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_stryifm.png, https://beta.telelan.com.ua/stryi-fm_mp3, https://scraper.onlineradiobox.com/ua.stryifm
+Голос Стрия, https://static.radioplayer.ua/radioplayer/logo/efir/logo_holos-stryia.jpg, https://complex.in.ua/struy320, https://scraper.onlineradiobox.com/ua.golosstriya
+Янтарне FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_yantarne.jpg, https://complex.in.ua/yantarne320, https://scraper.onlineradiobox.com/ua.yantarnefm
+Вільне Радіо, https://static.radioplayer.ua/radioplayer/logo/efir/logo_vilneradio.png, https://cast108372.customer.uar.net/live320
+Броди FM, https://static.radioplayer.ua/radioplayer/logo/region/logo_brodyfm.jpg, https://complex.in.ua/brodyHD
+Gonivo, https://yt3.googleusercontent.com/GRU8gmUILoOyzaV3KlXnpNaR1-xsjqEvHDX9a2gp_BGYGkyX7vo4cfftiT4YQ_THlriZI8M=s900-c-k-c0x00ffffff-no-rj, https://stream.gonivo.com.ua/radio/8000/live
+Радіо RESPECT, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiorespect.png, https://worldradio.online/proxy/?q=http://195.66.79.35:8000/live, https://scraper.onlineradiobox.com/ua.respect
+Radio Sprotyv, https://radioplay.pp.ua/images/radio_sprotyv.png, https://listen.radioking.com/radio/528787/stream/587251
+РАДІОПІХОТА, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiopikhota.png, https://online.pihota.fm/listen/pihota/320, https://scraper.onlineradiobox.com/ua.pihotafm
+Радіо K-POP, https://static.radioplayer.ua/radioplayer/logo/online/logo_kpopradio.jpg, https://tavr.tvstitch.com/KpopRadio_HD, https://scraper.onlineradiobox.com/ua.kpopradio
+Music Radio, https://static.radioplayer.ua/radioplayer/logo/online/logo_musicradio.jpg, https://tavr.tvstitch.com/MusicRadio_HD, https://scraper.onlineradiobox.com/ua.musicradio
+Гуляй Радіо, https://static.radioplayer.ua/radioplayer/logo/online/logo_guliayradio.jpg, https://tavr.tvstitch.com/GuliayRadio_HD, https://scraper.onlineradiobox.com/ua.guliay
+Radio Gold, https://static.radioplayer.ua/radioplayer/logo/online/logo_radiogold.jpg, https://tavr.tvstitch.com/RadioGold_HD, https://scraper.onlineradiuobox.com/ua.gold
+Flash Radio, https://static.radioplayer.ua/radioplayer/logo/online/logo_flashradio-2022.jpg, https://tavr.tvstitch.com/FlashRadio_HD, https://scraper.onlineradiuobox.com/ua.flash
+Радіо Інді.UA, https://static.radioplayer.ua/radioplayer/logo/online/logo_radioindieua.png, https://tavr.tvstitch.com/RadioIndieUA_HD, https://scraper.onlineradiuobox.com/ua.indieua
+Radio Italiana, https://static.radioplayer.ua/radioplayer/logo/online/logo_radioitaliana.jpg, https://tavr.tvstitch.com/RadioItaliana_HD, https://scraper.onlineradiuobox.com/ua.radioitaliana
+Radio Ritmo Latino, https://static.radioplayer.ua/radioplayer/logo/online/logo_radioritmolatino.jpg, https://tavr.tvstitch.com/RadioRitmoLatino_HD
+Єдині Новини, https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny-n.jpg, https://online-news.radioplayer.ua/RadioNews, https://scraper.onlineradiuobox.com/ua.dim
+Cappajoe - Rhino Sense, https://radio.cappajoe.com/wp-content/uploads/2024/08/Logo-Player-Rhino-1-370x370.png, https://stream.wolfmusicradio.com:8040/radio.mp3
+Cappajoe - Monkey Dance, https://radio.cappajoe.com/wp-content/uploads/2024/08/Logo-Player-Monkey-370x370.png, https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3
+Cappajoe - Flamingo Soul, https://radio.cappajoe.com/wp-content/uploads/2024/08/Logo-Player-Flamingo-370x370.png, https://stream.wolfmusicradio.com:8020/radio.mp3
+Wolf Deep House, https://radioplay.pp.ua/images/wolf_music_deep_house.png, https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
+Радіо ЄС, https://static.mytuner.mobi/media/tvos_radios/E7z2L3pxz8.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/kiev
+Urban Space Radio, https://urbanspaceradio.com/wp-content/uploads/2022/04/logo3000x3000-1.png, https://stream.urbanspaceradio.com:8443/urban-space-radio, https://scraper.onlineradiuobox.com/ua.usr
+RadioHUB, https://static.mytuner.mobi/media/tvos_radios/e5Avnpxakq.jpg, https://listen3.myradio24.com/radiohub, https://scraper.onlineradiobox.com/ua.radiohub
