@@ -8,7 +8,7 @@ Radio 7, https://radioplay.fun/images/radio7.png, https://media2.streambrothers.
 Львівська Хвиля, https://radioplay.fun/images/lviv_fm.png, https://onair.lviv.fm:8443/lviv.fm,
 Тернопільська Хвиля, https://radioplay.fun/images/ternopil_fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 Є! Радіо, https://radioplay.fun/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
-M1 Radio, https://radioplay.fun/images/m1_radio.png, http://158.101.222.193:88/georgia_play.php?id=m1
+M1 Radio, https://radioplay.fun/images/m1_radio.png, https://worldradio.online/proxy/?q=http://158.101.222.193:88/georgia_play.php?id=m1
 M2 Radio, https://radioplay.fun/images/m2_radio.png, https://live.m2.tv/hls3/720/stream.m3u8
 Trance is Star, https://radioplay.fun/images/trance_is_star.png, https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
 Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
