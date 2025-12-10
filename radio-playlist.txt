@@ -3,12 +3,11 @@
 Закарпаття FM, https://radioplay.fun/images/zakarpattya_fm.png, https://worldradio.online/proxy/?q=http://195.234.148.51:8000/;stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
 Radio 7, https://radioplay.fun/images/radio7.png, https://media2.streambrothers.com:8034/stream
 Захід FM+, https://radioplay.fun/images/zfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
-Пульс FM, https://radioplay.fun/images/puls_fm.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
-Галичина FM, https://radioplay.fun/images/galychyna_fm.png.png, https://stream320.galychyna.fm/WebSite
+Пульс FM, https://radioplay.fun/images/puls-fm.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
+Галичина FM, https://radioplay.fun/images/galychyna_fm.png, https://stream320.galychyna.fm/WebSite
 Львівська Хвиля, https://radioplay.fun/images/lviv_fm.png, https://onair.lviv.fm:8443/lviv.fm,
 Тернопільська Хвиля, https://radioplay.fun/images/ternopil_fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 Є! Радіо, https://radioplay.fun/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
-M1 Radio, https://radioplay.fun/images/m1_radio.png, https://worldradio.online/proxy/?q=http://158.101.222.193:88/georgia_play.php?id=m1
 M2 Radio, https://radioplay.fun/images/m2_radio.png, https://live.m2.tv/hls3/720/stream.m3u8
 Trance is Star, https://radioplay.fun/images/trance_is_star.png, https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
 Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
@@ -18,7 +17,7 @@ Hit FM Найбільші хіти, https://radioplay.fun/images/hit_fm_best.png
 Hit FM Сучасні хіти, https://radioplay.fun/images/hit_fm_top.png, https://online.hitfm.ua/HitFM_Top_HD, https://scraper.onlineradiobox.com/ua.hitfmtop
 Мелодія FM, https://radioplay.fun/images/melodia_fm.png, https://online.melodiafm.ua/MelodiaFM_HD, https://scraper.onlineradiobox.com/ua.melodiya
 Мелодія FM International, https://radioplay.fun/images/melodia_fm_int.png, https://online.melodiafm.ua/MelodiaFM_Int_HD, https://scraper.onlineradiobox.com/ua.melodiainternational
-Мелодія FM Disco, https://radioplay.fun/images/melodia_fm_disco.png.png, https://online.melodiafm.ua/MelodiaFM_Disco_HD, https://scraper.onlineradiobox.com/ua.melodiadisco
+Мелодія FM Disco, https://radioplay.fun/images/melodia_fm_disco.png, https://online.melodiafm.ua/MelodiaFM_Disco_HD, https://scraper.onlineradiobox.com/ua.melodiadisco
 Мелодія FM Romantic, https://radioplay.fun/images/melodia_fm_romantic.png, https://online.melodiafm.ua/MelodiaFM_Romantic_HD, https://scraper.onlineradiobox.com/ua.melodiaromantic
 Relax FM, https://radioplay.fun/images/radio_relax.png, https://online.radiorelax.ua/RadioRelax_HD, https://scraper.onlineradiobox.com/ua.radiorelax.com.ua
 Relax FM Українською, https://radioplay.fun/images/radio_relax_ukr.png, https://online.radiorelax.ua/RadioRelax_Ukr_HD, https://scraper.onlineradiobox.com/ua.relaxukr
@@ -52,8 +51,8 @@ Kyivstar | Golden Hits, https://radioplay.fun/images/kyivstar_golden_hits.png, h
 Kyivstar | World Charts, https://radioplay.fun/images/kyivstar_world_charts.png, https://radio.kyivstar.ua/stream/worldchart/256k.m3u8
 Kyivstar | Made In Ukraine, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://radio.kyivstar.ua/stream/ukraine/256k.m3u8
 Kyivstar | Made In Ukraine 2, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://listen7.myradio24.com/ukraine
-Kyivstar | Chill & Lounge, https://imgpx.com/P3CIIu3hoHGr.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
-Kyivstar | Top Hits, https://radioplay.fun/images/, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
+Kyivstar | Chill & Lounge, https://radioplay.fun/images/kyivstar_chill_and_lounge.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
+Kyivstar | Top Hits, https://radioplay.fun/images/kyivstar_top_hits.png, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
 Kyivstar | Urban, https://imgpx.com/vvpdmNBqqKa5.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
 Kyivstar | Retro, https://imgpx.com/5zInQmFljUbc.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
 Kyivstar | Rock, https://imgpx.com/hMrMviuiTMFO.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
@@ -218,3 +217,4 @@ RadioHUB, https://static.mytuner.mobi/media/tvos_radios/e5Avnpxakq.jpg, https://
 Європа Плюс, https://api.radiodim.rv.ua/images/radios/650_0e9b7cab-2a83-4226-97ef-c653e2d6d631.png, https://s5.radioforge.com:7908/live
 Інформатор FM, https://api.radiodim.rv.ua/images/radios/650_0e01d38e-969b-424e-89a6-ead8c816c907.png, https://main.inf.fm:8101/;, https://scraper.onlineradiobox.com/ua.rmix
 Радіо Прищепкін, https://uaonair.com/my_content/uploads/2023/05/0c3a6ad6a4177f5e9432a0e9cb315f4d.jpg, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/uua.prischepkin
+MEGOGO Music, https://radioplay.fun/images/megogo_music.png, https://tva.in.ua/live/megogo_life.m3u8
