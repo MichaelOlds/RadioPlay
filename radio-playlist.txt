@@ -222,7 +222,7 @@ RadioHUB, https://radioplay.fun/images/radiohub.png, https://listen3.myradio24.c
 Happy Radio, https://radioplay.fun/images/happy_radio.png, https://stream.zeno.fm/nkeaps48xg0uv, https://scraper.onlineradiobox.com/ua.happyradio
 Радіо Лампа, https://radioplay.fun/images/radio_lampa.png, https://cast.gossdhosting.com/listen/radio_lampa/radio.mp3, https://scraper.onlineradiobox.com/ua.radiolampa
 Background Radio, https://radioplay.fun/images/background_radio.png, https://listen4.myradio24.com/84802, https://scraper.onlineradiobox.com/ua.background
-KEXXX FM Kyiv, https://radioplay.fun/images/kexxx_fm, https://listen6.myradio24.com/5390, https://scraper.onlineradiobox.com/ua.keksfm
+KEXXX FM Kyiv, https://radioplay.fun/images/kexxx_fm.png.png.png, https://listen6.myradio24.com/5390, https://scraper.onlineradiobox.com/ua.keksfm
 KEXXX FM Rocks, https://radioplay.fun/images/kexxx_fm_rocks, https://listen6.myradio24.com/51020, https://scraper.onlineradiobox.com/ua.keksfmrock
 KEXXX FM Light, https://radioplay.fun/images/kexxx_fm_light, https://listen6.myradio24.com/78387, https://scraper.onlineradiobox.com/ua.kexxxlight
 Радіо ПТРК, https://radioplay.fun/images/radio_ptrk.png, https://radio.ptrk.tv/PTRK
@@ -238,18 +238,18 @@ Dog FM, https://radioplay.fun/images/dog_fm.png, https://azurahosting.xtvmedia.p
 Gratest Radio, https://radioplay.fun/images/radio_gratest.png, https://stream.mjoy.ua:8443/radio-great, https://scraper.onlineradiobox.com/ua.mgreatest
 Mouse Radio, https://radioplay.fun/images/mouse_radio.png, https://stream.mjoy.ua:8443/radio-mousse, https://scraper.onlineradiobox.com/ua.mousse
 Радіо Ісландія, https://radioplay.fun/images/radio_islandia.png, https://s3.radio.co/sa3e464c40/listen, https://scraper.onlineradiobox.com/ua.islandiya
-Пульс Києва, https://radioplay.fun/images/kyiv_pulse.png, https://listen.radioking.com/radio/766895/stream/834062, https://scraper.onlineradiobox.com/ua.pulsofkyiv
+Пульс Києва, https://radioplay.fun/images/kyiv_puls.png, https://listen.radioking.com/radio/766895/stream/834062, https://scraper.onlineradiobox.com/ua.pulsofkyiv
 Ukraine FM - Іспанія, https://radioplay.fun/images/ukraine_fm.png, https://sonicpanel.streaming10.net:8084/stream
 Radio UA Chicago, https://radioplay.fun/images/ua_radio_chicago.png, https://eu8.fastcast4u.com/proxy/radiouachicago?mp=/1
 URC Radio - США, https://radioplay.fun/images/urc_radio.png, https://streamer.radio.co/sdff2fd6a8/listen, https://scraper.onlineradiobox.com/us.urc
 Ton Ukraine - Німеччина, https://radioplay.fun/images/ton_radio.png, https://radioton.stream29.radiohost.de/radioton-popup2_mp3-192, https://scraper.onlineradiobox.com/de.tonweihnachten
 Радіо Козачок - Лондон, https://radioplay.fun/images/radio_kozachok.png, https://3daudiolabs.uk/stream
-Druzi FM - Естонія, https://radioplay.fun/images/radio_druzi.png, https://druzi.fm:8443/256aac, https://scraper.onlineradiobox.com/ee.druziee
+Druzi FM - Естонія, https://radioplay.fun/images/druzi_fm.png, https://druzi.fm:8443/256aac, https://scraper.onlineradiobox.com/ee.druziee
 Польське радіо для України, https://radioplay.fun/images/polske_radio.png, https://stream.zeno.fm/vytwae1vgchvv
-Ukie Radio - США, https://radioplay.fun/images/ukie_radio.png, https://cast.ukieradio.com/proxy/ukieradio/stream, https://scraper.onlineradiobox.com/us.ukie
+Ukie Radio - США, https://radioplay.fun/images/radio_ukie.png, https://cast.ukieradio.com/proxy/ukieradio/stream, https://scraper.onlineradiobox.com/us.ukie
 Радіо Куреш, https://radioplay.fun/images/radio_kyresh.png, https://stream.radiodim.com/stream/radio-kuresh-radiodim, https://scraper.onlineradiobox.com/ua.kuresh
 Експрес Радіо, https://radioplay.fun/images/radio_expres.png, https://stream.radiodim.com/stream/express-radio-radiodim
-Рекорд FM, https://radioplay.fun/images/.png, https://globalic.stream:1500/stream, https://scraper.onlineradiobox.com/ua.record
+Рекорд FM, https://radioplay.fun/images/record_fm.png, https://globalic.stream:1500/stream, https://scraper.onlineradiobox.com/ua.record
 Радіо Магніт, https://radioplay.fun/images/radio_magnit.png, https://stream.radiodim.com/stream/radio-magnit-radiodim, https://scraper.onlineradiobox.com/ua.magnit
 Радіо Сяйво, https://radioplay.fun/images/radio_syaivo.png, https://stream.ntktv.ua/syaivo.mp3, https://scraper.onlineradiobox.com/ua.syaivo
 Радіо Смак, https://radioplay.fun/images/radio_smak.png,https://ipradio.net:8443/radiosmakHD, https://scraper.onlineradiobox.com/ua.zolochiv
