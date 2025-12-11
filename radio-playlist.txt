@@ -53,42 +53,42 @@ Kyivstar | Made In Ukraine, https://radioplay.fun/images/kyivstar_made_in_ukrain
 Kyivstar | Made In Ukraine 2, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://listen7.myradio24.com/ukraine
 Kyivstar | Chill & Lounge, https://radioplay.fun/images/kyivstar_chill_and_lounge.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
 Kyivstar | Top Hits, https://radioplay.fun/images/kyivstar_top_hits.png, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
-Kyivstar | Urban, https://imgpx.com/vvpdmNBqqKa5.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
-Kyivstar | Retro, https://imgpx.com/5zInQmFljUbc.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
-Kyivstar | Rock, https://imgpx.com/hMrMviuiTMFO.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
-Kyivstar | Elektro, https://imgpx.com/JETfkhlNeoGY.png, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
-Sun FM Ukraine, https://static.wixstatic.com/media/196d22_280b5fa65c724e318e5c0f4b3f09a2b2~mv2.jpeg, https://ec5.yesstreaming.net:2225/stream, https://scraper.onlineradiobox.com/ua.sunua
-Sun FM Plus, https://static.wixstatic.com/media/196d22_ca3abd0a532b45bc9eb1aae6e5b812d9~mv2.jpg, https://ec5.yesstreaming.net:3520/stream, https://scraper.onlineradiobox.com/ua.sunfmua
-Sun FM Fresh, https://static.wixstatic.com/media/196d22_f3a1ffdd0d9b4d80bbc4aa2fe47be8fe~mv2.jpg, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
-Sun FM Gold, https://static.wixstatic.com/media/196d22_1a8a4e89f8fd4eee81abedafbb81fe40~mv2.jpeg, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
-Sun FM Rock, https://static.wixstatic.com/media/196d22_e5dd52a2f083452098b2fe70098cf586~mv2.jpeg, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
-Teren FM, https://api.radiodim.rv.ua/images/radios/650_52af7223-7eee-4629-baff-81666fb6b19b.png, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
-Країна FM, https://krainafm.com.ua/wp-content/uploads/2017/12/kraina.png, https://worldradio.online/proxy/?q=http://live.radioec.com.ua:8000/kievhi
-Країна FM Rock, https://krainafm.com.ua/wp-content/uploads/2017/12/rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock, https://scraper.onlineradiobox.com/ua.krainafmrock
-Країна FM Лірика, https://krainafm.com.ua/wp-content/uploads/2017/12/lirika.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica, https://scraper.onlineradiobox.com/ua.krainafmlyrica
-Країна FM Дрімайко, https://krainafm.com.ua/wp-content/uploads/2017/12/drimaiko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
-Країна FM Ритмотека, https://krainafm.com.ua/wp-content/uploads/2017/12/ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
-Країна FM Країна Мрій, https://krainafm.com.ua/wp-content/uploads/2017/12/mrii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
-X-Radio, https://imgpx.com/zPTgm5J2ycT8.jpg, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
-X-Radio Lounge, https://xradio.in.ua/wp-content/uploads/2025/06/X-Radio-2.jpg, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
-X-Radio Hit, https://imgpx.com/4FSY2nOv9jzr.jpg, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
-Lounge FM, https://radioplay.pp.ua/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
-Lounge FM Terace, https://radioplay.pp.ua/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
-Lounge FM Acoustic, https://radioplay.pp.ua/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
-Lounge FM Chill Out, https://radioplay.pp.ua/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320, https://scraper.onlineradiobox.com/ua.loungefmcomuaacoustic
-Misto FM Deep, https://radioplay.pp.ua/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
-Misto FM Juda, https://radioplay.pp.ua/images/misto_fm_juda.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
-Misto FM Beats, https://radioplay.pp.ua/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
-Radio Сільпо, https://hls.radio.silpo.ua/imgs/3322222.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
-Radio Аврора, https://imgpx.com/nb7eQwwb2Kvi.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
-Радіо Цитрус, https://radioplay.pp.ua/images/radio_citrus.png, https://stream.brandradionetworks.com/citrus, https://scraper.onlineradiobox.com/ua.citrus
-Радіо ВДНГ, https://radioplay.pp.ua/images/radio_vdng.png, https://stream.brandradionetworks.com/vdng
-MFM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_mfm.jpg, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
-Radio Paradise Main Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/mp3-320, https://scraper.onlineradiobox.com/us.radioparadise
-Radio Paradise Mellow Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/mellow-320, https://scraper.onlineradiobox.com/us.paradisemellowmix
-Radio Paradise Rock Mix, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/rock-320, https://scraper.onlineradiobox.com/us.paradiserockmix
-Radio Paradise Serenity, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/serenity, https://scraper.onlineradiobox.com/us.paradiseserenity
-Radio Paradise Beyond, https://yt3.googleusercontent.com/1-sb7SOHP7VCoEOhMhzJXX38QPzPjAdkA-4b8e3-cahWl5nDgSiG3YRnmm6ZXpWIRHqf5s4u=s900-c-k-c0x00ffffff-no-rj, https://stream.radioparadise.com/beyond-320, https://scraper.onlineradiobox.com/us.paradisebeyond
+Kyivstar | Urban, https://radioplay.fun/images/kyivstar_urban.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
+Kyivstar | Retro, https://radioplay.fun/images/kyivstar_retro, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
+Kyivstar | Rock, https://radioplay.fun/images/kyivstar_rock, https://radio.kyivstar.ua/stream/rock/256k.m3u8
+Kyivstar | Elektro, https://radioplay.fun/images/kyivstar_elektro, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
+Sun FM Ukraine, https://radioplay.fun/images/sun_fm.png, https://ec5.yesstreaming.net:2225/stream, https://scraper.onlineradiobox.com/ua.sunua
+Sun FM Plus, https://radioplay.fun/images/sun_fm_plus.png, https://ec5.yesstreaming.net:3520/stream, https://scraper.onlineradiobox.com/ua.sunfmua
+Sun FM Fresh, https://radioplay.fun/images/sun_fm_fresh.png, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
+Sun FM Gold, https://radioplay.fun/images/sun_fm_gold.png, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
+Sun FM Rock, https://radioplay.fun/images/sun_fm_rock.png, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
+Teren FM, https://radioplay.fun/images/teren_fm, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
+Країна FM, https://radioplay.fun/images/kraina_fm, https://krainafm.com.ua/.radioec.com.ua:8000/kievhi
+Країна FM Rock, https://radioplay.fun/images/kraina_fm_rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock, https://scraper.onlineradiobox.com/ua.krainafmrock
+Країна FM Лірика, https://radioplay.fun/images/kraina_fm_liryka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica, https://scraper.onlineradiobox.com/ua.krainafmlyrica
+Країна FM Дрімайко, https://radioplay.fun/images/kraina_fm_drimayko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
+Країна FM Ритмотека, https://radioplay.fun/images/kraina_fm_ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
+Країна FM Країна Мрій, https://radioplay.fun/images/kraina_fm_mriy.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
+X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
+X-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
+X-Radio Ibiza, https://radioplay.fun/images/x_radio_ibiza.png, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
+Lounge FM, https://radioplay.fun/images/lounge_fm, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
+Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
+Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
+Lounge FM Chill Out, https://radioplay.fun/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320, https://scraper.onlineradiobox.com/ua.loungefmcomuaacoustic
+Misto FM Deep, https://radioplay.fun/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
+Misto FM Juda, https://radioplay.fun/images/misto_fm_juda.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
+Misto FM Beats, https://radioplay.fun/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
+Radio Сільпо, https://radioplay.fun/images/radio_silpo, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
+Radio Аврора, https://radioplay.fun/images/radio_avrora.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
+Радіо Цитрус, https://radioplay.fun/images/radio_citrus.png, https://stream.brandradionetworks.com/citrus, https://scraper.onlineradiobox.com/ua.citrus
+Радіо ВДНГ, https://radioplay.fun/images/radio_vdng.png, https://stream.brandradionetworks.com/vdng
+MFM, https://radioplay.fun/images/mfm.png, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
+Radio Paradise Main Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mp3-320, https://scraper.onlineradiobox.com/us.radioparadise
+Radio Paradise Mellow Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mellow-320, https://scraper.onlineradiobox.com/us.paradisemellowmix
+Radio Paradise Rock Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/rock-320, https://scraper.onlineradiobox.com/us.paradiserockmix
+Radio Paradise Serenity, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/serenity, https://scraper.onlineradiobox.com/us.paradiseserenity
+Radio Paradise Beyond, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/beyond-320, https://scraper.onlineradiobox.com/us.paradisebeyond
 Trance Radio, https://imgpx.com/HTbfHMLTRwPj.jpg, https://radio.hearme.fm:8100/stream, https://scraper.onlineradiobox.com/uk.trance
 LITT Live - Lofi, https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png, https://das-sa39.cdnstream1.com/5582_128, https://scraper.onlineradiobox.com/us.dashsubdustrial
 Lofi 24/7, https://www.allradio.net/500/DAUx351AUDMcWElHJOlxg.webp, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate
@@ -98,7 +98,7 @@ DJFM, https://api.radiodim.rv.ua/images/radios/650_644a9637-1765-4779-acfe-e5b15
 DJFM Dance, https://api.radiodim.rv.ua/images/radios/650_a41bab4d-bbae-4185-a4f5-7efc18e1c16e.png, https://cast.brg.ua/djfmdance_main_public_mp3_hq
 High Beam Radio, https://imgpx.com/bHxoN2KRfgk1.jpg, https://listen5.myradio24.com/highbeam
 Радіо Кардан, https://static.mytuner.mobi/media/tvos_radios/193/kardan-radio.6245f757.png, https://listen6.myradio24.com/scultio
-Шлягер FM, https://static.radioplayer.ua/radioplayer/logo/efir/logo_shlager-fm.jpg, https://cast.brg.ua/shanson_main_public_mp3_hq
+Шлягер FM, https://radioplay.fun/images/, https://cast.brg.ua/shanson_main_public_mp3_hq
 Перець FM, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/radio-stilnoe, https://scraper.onlineradiobox.com/ua.stilnoe.fm
 Перець FM Romantique, https://imgpx.com/7fkeVTqrNbfI.png, https://radio.perec.fm/romantique
 Magic Radio, https://static.radioplayer.ua/radioplayer/logo/efir/logo_magic.jpg, https://cast.brg.ua/business_main_public_mp3_hq
@@ -216,5 +216,4 @@ RadioHUB, https://static.mytuner.mobi/media/tvos_radios/e5Avnpxakq.jpg, https://
 Радіо М, https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiom.jpg, https://live.radiom.ua/stream_mp3
 Європа Плюс, https://api.radiodim.rv.ua/images/radios/650_0e9b7cab-2a83-4226-97ef-c653e2d6d631.png, https://s5.radioforge.com:7908/live
 Інформатор FM, https://api.radiodim.rv.ua/images/radios/650_0e01d38e-969b-424e-89a6-ead8c816c907.png, https://main.inf.fm:8101/;, https://scraper.onlineradiobox.com/ua.rmix
-Радіо Прищепкін, https://uaonair.com/my_content/uploads/2023/05/0c3a6ad6a4177f5e9432a0e9cb315f4d.jpg, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/uua.prischepkin
-MEGOGO Music, https://radioplay.fun/images/megogo_music.png, https://tva.in.ua/live/megogo_life.m3u8
+Радіо Прищепкін, https://uaonair.com/my_content/uploads/2023/05/0c3a6ad6a4177f5e9432a0e9cb315f4d.jpg, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/ua.prischepkin
