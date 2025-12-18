@@ -201,7 +201,7 @@ Radio Gold, https://radioplay.fun/images/radio_gold.png, https://tavr.tvstitch.c
 Flash Radio, https://radioplay.fun/images/flash_radio.png, https://tavr.tvstitch.com/FlashRadio_HD, https://scraper.onlineradiobox.com/ua.flash
 Радіо Інді.UA, https://radioplay.fun/images/radio_indi.png, https://tavr.tvstitch.com/RadioIndieUA_HD, https://scraper.onlineradiobox.com/ua.indieua
 Radio Italiana, https://radioplay.fun/images/radio_italiana.png, https://tavr.tvstitch.com/RadioItaliana_HD, https://scraper.onlineradiobox.com/ua.radioitaliana
-Radio Ritmo Latino, https://radioplay.fun/images/, https://tavr.tvstitch.com/RadioRitmoLatino_HD
+Radio Ritmo Latino, https://radioplay.fun/images/radio_ritmo_latino.png, https://tavr.tvstitch.com/RadioRitmoLatino_HD
 Єдині Новини, https://radioplay.fun/images/marathon_news.png, https://online-news.radioplayer.ua/RadioNews, https://scraper.onlineradiobox.com/ua.dim
 Cappajoe - Rhino Sense, https://radioplay.fun/images/cappajoe_rhino_sense.png, https://stream.wolfmusicradio.com:8040/radio.mp3
 Cappajoe - Monkey Dance, https://radioplay.fun/images/cappajoe_monkey_dance.png, https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3
