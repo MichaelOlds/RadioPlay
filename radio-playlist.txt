@@ -296,4 +296,4 @@ Top Radio Lounge, https://radioplay.fun/images/top_radio.png, https://stream.top
 Top Radio Dance, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/topdance.mp3
 Top Radio Rock, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/toprock.mp3
 Svoboda FM, https://radioplay.fun/images/svoboda_fm.png, https://listen.radioking.com/radio/623869/stream/685978
-Прше радіо 1FM, https://radioplay.fun/images/1fm_radio.png, http://radio.grad.ua:8000/radio1-256
+Прше радіо 1FM, https://radioplay.fun/images/1fm_radio.png, https://worldradio.online/proxy/?q=http://radio.grad.ua:8000/radio1-256
