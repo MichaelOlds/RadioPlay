@@ -113,14 +113,14 @@
         position: absolute;
         bottom: 35px;
         left: 50%;
-        transform: translateX(-50%);
-        writing-mode: bt-lr;
-        appearance: slider-vertical;
-        width: 30px;
-        height: 100px;
-        display: none;
+        transform: translateX(-50%) rotate(270deg);
+        width: 100px;
+        height: 30px;
+        appearance: none;
         background: transparent;
-    }
+        display: none;
+   }
+
     .volume-container.show-slider #volume-slider {
         display: block;
     }
