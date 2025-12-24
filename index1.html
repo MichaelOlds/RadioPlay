@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RadioPlay</title>
+<meta name="theme-color" id="meta-theme-color" content="#e0e0e0">
+<link rel="icon" type="image/x-icon" href="favicon.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1VM6MBK1P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-H1VM6MBK1P');
+</script>
+    
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #e0e0e0;
+        color: #000000;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        height: 100vh;
+        margin: 0;
+    }
+    body.dark-theme { background-color: #212121; color: #ffffff; }
+    body.dark-theme .search-container,
+    body.dark-theme .radio-item,
+    body.dark-theme .player,
+    body.dark-theme .big-player {
+        background: #333333;
+        box-shadow: 5px 5px 15px #000000, -5px -5px 15px #444444;
+    }
+    body.dark-theme .player-controls button { color: #aaaaaa; }
+    body.dark-theme .tab.active::after,
+    body.dark-theme .tab:hover::after { background-color: #ffffff; }
+    body.dark-theme #theme-toggle-btn { color: #ffffff; }
+    
+    body.dark-theme .big-player-header img { filter: invert(1); }
+
+    .container { width: 90%; max-width: 1200px; margin-top: 20px; transition: padding-bottom 0.3s ease; }
+    .search-container {
+        position: relative; max-width: 400px; margin: 0 auto 15px auto; display: flex; align-items: center;
+        background: #e0e0e0; border-radius: 30px; box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+        padding: 8px 15px; transition: all 0.3s ease; box-sizing: border-box;
+    }
+    .search-icon { color: #888; margin-right: 10px; font-size: 16px; }
+    .search-container input { border: none; outline: none; background: transparent; font-size: 14px; width: 100%; color: inherit; }
+    .theme-toggle-btn {
+        background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 8px; color: inherit; transition: transform 0.2s;
+    }
+    .theme-toggle-btn:hover { transform: scale(1.2); }
+
+    .tabs { display: flex; justify-content: center; gap: 30px; margin-bottom: 15px; font-weight: bold; cursor: pointer; }
+    .tab { padding: 5px 0; position: relative; }
+    .tab.active::after, .tab:hover::after {
+        content: ""; position: absolute; bottom: -5px; left: 0; width: 100%; height: 3px;
+        background-color: #000000; border-radius: 2px;
+    }
+    .radio-list { display: flex; flex-wrap: wrap; gap: 10px; }
+    .radio-item {
+        display: flex; align-items: center; background: #f0f0f0; border-radius: 15px;
+        box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+        padding: 10px; transition: all 0.3s ease; flex: 0 1 calc(33.333% - 10px); box-sizing: border-box;
+    }
+    .radio-item:hover { box-shadow: 2px 2px 10px #aaaaaa, -2px -2px 10px #ffffff; }
+    .radio-logo { width: 60px; height: 60px; border-radius: 10px; margin-right: 10px; }
+
+    .player {
+        display: flex; align-items: center; background: #e0e0e0; border-radius: 18px 18px 0 0;
+        box-shadow: 5px 5px 15px #aaaaaa, -5px -5px 15px #ffffff;
+        padding: 0 10px; position: fixed; bottom: 0; width: calc(100% - 20px);
+        height: 65px; transition: all 0.3s ease; z-index: 1000;
+    }
+    .player.hidden { display: none; }
+    .player-logo { width: 53px; height: 53px; border-radius: 8px; margin-right: 7px; }
+
+    .player-info {
+        display: flex; flex-direction: column; justify-content: center; overflow: hidden; flex: 1 1 auto; min-width: 0;
+    }
+    .player-info h3 {
+        font-size: 16px; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;
+    }
+    
+    .track-container { width: 100%; overflow: hidden; white-space: nowrap; position: relative; }
+    #player-track { display: inline-block; font-size: 12px; color: #888; white-space: nowrap; will-change: transform; }
+
+    .marquee { animation: marquee-precise 15s linear infinite; }
+    @keyframes marquee-precise {
+        0%, 20% { transform: translateX(0); }
+        95%, 100% { transform: translateX(-50%); } 
+    }
+
+    .player-controls { display: flex; align-items: center; margin-left: auto; flex: 0 0 auto; }
+    .player-controls button {
+        background: none; border: none; margin: 0 5px; cursor: pointer; font-size: 16px;
+        color: #606060; transition: color 0.3s ease;
+    }
+    .player-controls button:hover { color: #000000; }
+
+    .volume-container { position: relative; display: flex; align-items: center; }
+    #volume-btn { background: none; border: none; cursor: pointer; font-size: 16px; color: #606060; margin-left: 5px; }
+    #volume-slider {
+        position: absolute; bottom: 35px; left: 50%; transform: translateX(-50%);
+        writing-mode: bt-lr; appearance: slider-vertical; width: 30px; height: 100px;
+        display: none; background: transparent;
+    }
+    .volume-container.show-slider #volume-slider { display: block; }
+
+    @media (max-width: 768px) { .radio-item { flex: 0 1 100%; } }
+
+    .big-player {
+        position: fixed; bottom: -100%; left: 0; width: 100%; height: 100%; background: #fff;
+        box-shadow: none; border-radius: 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px;
+        box-sizing: border-box; transition: bottom 0.4s ease; z-index: 2000;
+    }
+    body.dark-theme .big-player { background: #333; color: white; }
+    .big-player.show { bottom: 0; }
+
+    .big-player-header {
+        position: absolute; top: 20px; left: 0; right: 0; display: flex; justify-content: space-between;
+        padding: 0 20px; width: 100%; box-sizing: border-box;
+    }
+    .big-player-header button {
+        background: none; border: none; cursor: pointer; color: inherit; padding: 10px;
+        display: flex; align-items: center; justify-content: center;
+    }
+
+    .big-player-logo { width: 180px; height: 180px; border-radius: 12px; margin: 15px 0; }
+    #big-player-track {
+        display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        max-width: 90%; text-align: center;
+    }
+    .big-player-controls { display: flex; gap: 20px; margin-top: 20px; }
+    .round-btn {
+        width: 60px; height: 60px; border-radius: 50%; border: none;
+        background: #212121; color: white; font-size: 20px; cursor: pointer; transition: background 0.3s ease;
+    }
+    .round-btn:hover { background: #444; }
+</style>
+</head>
+<body>
+
+<div class="container" id="main-container">
+    <div class="search-container" id="search-container">
+        <i class="fas fa-search search-icon"></i>
+        <input type="text" id="search-input" placeholder="Пошук...">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">☀</button>
+    </div>
+    <div class="tabs">
+        <span id="tab-all" class="tab active">Всі радіостанції</span>
+        <span id="tab-fav" class="tab">Улюблені</span>
+    </div>
+    <div id="radio-list" class="radio-list"></div>
+</div>
+
+<div id="player" class="player hidden">
+    <div id="player-info-wrapper" style="display:flex; align-items:center; flex:1; cursor:pointer; min-width:0;">
+        <img id="player-logo" src="" alt="Radio Logo" class="player-logo">
+        <div class="player-info">
+            <h3 id="player-name">Назва Радіо</h3>
+            <div class="track-container">
+                <small id="player-track"></small>
+            </div>
+        </div>
+    </div>
+    <div class="player-controls">
+        <button id="prev-btn"><i class="fas fa-backward"></i></button>
+        <button id="play-pause-btn"><i class="fas fa-play"></i></button>
+        <button id="next-btn"><i class="fas fa-forward"></i></button>
+        <div class="volume-container">
+            <button id="volume-btn"><i class="fas fa-volume-up"></i></button>
+            <input type="range" id="volume-slider" min="0" max="100" value="100" orient="vertical">
+        </div>
+    </div>
+</div>
+
+<div id="big-player" class="big-player">
+    <div class="big-player-header">
+        <button id="close-big-player">
+            <img src="https://www.svgrepo.com/show/473925/arrow-short-down.svg" alt="Close" style="width: 31px; height: 31px;">
+        </button>
+        <button id="copy-link-btn">
+            <img id="share-icon-img" src="https://www.svgrepo.com/show/447786/share.svg" alt="Share" style="width: 26.5px; height: 26.5px;">
+        </button>
+    </div>
+    <h2 id="big-player-station-name">Назва Радіо</h2>
+    <img id="big-player-logo" src="" alt="Логотип" class="big-player-logo">
+    <div id="big-player-track">Немає даних</div>
+    <div class="big-player-controls">
+        <button id="big-prev-btn" class="round-btn"><i class="fas fa-backward"></i></button>
+        <button id="big-play-pause-btn" class="round-btn"><i class="fas fa-play"></i></button>
+        <button id="big-next-btn" class="round-btn"><i class="fas fa-forward"></i></button>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const radioListContainer = document.getElementById('radio-list');
+    const mainContainer = document.getElementById('main-container');
+    const player = document.getElementById('player');
+    const playerLogo = document.getElementById('player-logo');
+    const playerName = document.getElementById('player-name');
+    const playerTrack = document.getElementById('player-track');
+    const playPauseBtn = document.getElementById('play-pause-btn');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const tabAll = document.getElementById('tab-all');
+    const tabFav = document.getElementById('tab-fav');
+    const searchInput = document.getElementById('search-input');
+    const themeToggleBtn = document.getElementById('theme-toggle-btn');
+    const playerInfoWrapper = document.getElementById('player-info-wrapper');
+
+    const bigPlayer = document.getElementById('big-player');
+    const bigPlayerName = document.getElementById('big-player-station-name');
+    const bigPlayerLogo = document.getElementById('big-player-logo');
+    const bigPlayerTrack = document.getElementById('big-player-track');
+    const bigPrevBtn = document.getElementById('big-prev-btn');
+    const bigNextBtn = document.getElementById('big-next-btn');
+    const bigPlayPauseBtn = document.getElementById('big-play-pause-btn');
+
+    const volumeBtn = document.getElementById('volume-btn');
+    const volumeSlider = document.getElementById('volume-slider');
+    const volumeContainer = document.querySelector('.volume-container');
+
+    let radioStations = [];
+    let currentStationIndex = null;
+    let isPlaying = false;
+    const audio = new Audio();
+    let favourites = JSON.parse(localStorage.getItem('favourites')) || [];
+
+    let trackUpdateTimer = null;
+    let currentUpdateController = null;
+    let currentUpdateToken = 0;
+
+    // --- ФУНКЦІЯ ДЛЯ СИНХРОНІЗАЦІЇ КОЛЬОРУ СИСТЕМНОЇ ПАНЕЛІ ---
+    function syncSystemBarColor() {
+        // Отримуємо поточний колір фону body
+        const bodyBg = window.getComputedStyle(document.body).backgroundColor;
+        const metaThemeColor = document.getElementById('meta-theme-color');
+        if (metaThemeColor) {
+            metaThemeColor.setAttribute('content', bodyBg);
+        }
+    }
+
+    volumeBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        volumeContainer.classList.toggle('show-slider');
+    });
+
+    volumeSlider.addEventListener('input', () => {
+        audio.volume = volumeSlider.value / 100;
+    });
+
+    document.addEventListener('click', (e) => {
+        if (!volumeContainer.contains(e.target)) {
+            volumeContainer.classList.remove('show-slider');
+        }
+    });
+
+    function updateMediaSession(stationName, trackTitle, logo) {
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: trackTitle || stationName,
+                artist: stationName,
+                artwork: [{ src: logo, sizes: '192x192', type: 'image/png' }]
+            });
+        }
+    }
+
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.setActionHandler('previoustrack', () => playPrevStation());
+        navigator.mediaSession.setActionHandler('nexttrack', () => playNextStation());
+        navigator.mediaSession.setActionHandler('play', () => { if (!isPlaying) togglePlayPause(); });
+        navigator.mediaSession.setActionHandler('pause', () => { if (isPlaying) togglePlayPause(); });
+    }
+
+    fetch('radio-playlist.txt')
+        .then(r => r.text())
+        .then(data => {
+            radioStations = data.trim().split('\n').map(line => {
+                const parts = line.split(',').map(s => s.trim());
+                if (parts[0] && parts[0].startsWith('ID=')) {
+                    const idValue = parts[0].substring(3);
+                    return { id: idValue, name: parts[1], logo: parts[2], stream: parts[3], api: parts[4] };
+                } else {
+                    return { id: null, name: parts[0], logo: parts[1], stream: parts[2], api: parts[3] };
+                }
+            });
+            displayRadioStations();
+            handleUrlParams();
+        });
+
+    function handleUrlParams() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const stationId = urlParams.get('r');
+        if (stationId) {
+            const index = radioStations.findIndex(s => s.id === stationId);
+            if (index !== -1) {
+                currentStationIndex = index;
+                const station = radioStations[index];
+                playerLogo.src = station.logo;
+                playerName.textContent = station.name;
+                updateTrackText('Натисніть Play');
+                audio.src = station.stream;
+                player.classList.remove('hidden');
+                mainContainer.style.paddingBottom = "80px";
+                setTimeout(() => {
+                    updateBigPlayer();
+                    bigPlayer.classList.add('show');
+                    document.body.style.overflow = 'hidden';
+                    syncSystemBarColor();
+                }, 300);
+                startTrackUpdates(station.api);
+            }
+        }
+    }
+
+    function displayRadioStations(showFavourites = false, filter = '') {
+        radioListContainer.innerHTML = '';
+        const fragment = document.createDocumentFragment();
+        let list = radioStations.map((station, index) => ({ ...station, realIndex: index }));
+        if (showFavourites) list = list.filter(s => favourites.includes(s.realIndex));
+        if (filter) list = list.filter(s => s.name.toLowerCase().includes(filter.toLowerCase()));
+
+        list.forEach((station) => {
+            const item = document.createElement('div');
+            item.classList.add('radio-item');
+            item.innerHTML = `
+                <img src="${station.logo}" alt="${station.name}" class="radio-logo">
+                <div>
+                    <strong>${station.name}</strong>
+                    <span class="fav-btn" style="cursor:pointer; margin-left:5px;">
+                        ${favourites.includes(station.realIndex) ? '★' : '☆'}
+                    </span>
+                </div>
+            `;
+            item.addEventListener('click', e => {
+                if (e.target.classList.contains('fav-btn')) {
+                    e.stopPropagation();
+                    toggleFavourite(station.realIndex);
+                } else {
+                    playStation(station.realIndex);
+                }
+            });
+            fragment.appendChild(item);
+        });
+        radioListContainer.appendChild(fragment);
+    }
+
+    function toggleFavourite(index) {
+        if (favourites.includes(index)) {
+            favourites = favourites.filter(i => i !== index);
+        } else {
+            favourites.push(index);
+        }
+        localStorage.setItem('favourites', JSON.stringify(favourites));
+        displayRadioStations(tabFav.classList.contains('active'), searchInput.value);
+    }
+
+    tabAll.addEventListener('click', () => {
+        tabAll.classList.add('active');
+        tabFav.classList.remove('active');
+        displayRadioStations(false, searchInput.value);
+    });
+
+    tabFav.addEventListener('click', () => {
+        tabFav.classList.add('active');
+        tabAll.classList.remove('active');
+        displayRadioStations(true, searchInput.value);
+    });
+
+    searchInput.addEventListener('input', () => {
+        displayRadioStations(tabFav.classList.contains('active'), searchInput.value);
+    });
+
+    function playStation(index) {
+        currentStationIndex = index;
+        clearTimeout(trackUpdateTimer);
+        if (currentUpdateController) { try { currentUpdateController.abort(); } catch {} }
+        currentUpdateToken++;
+        const station = radioStations[index];
+        audio.src = station.stream;
+        playerLogo.src = station.logo;
+        playerName.textContent = station.name;
+        updateTrackText('Завантаження...');
+        document.title = station.name;
+        isPlaying = true;
+        audio.play().catch(() => {});
+        const icon = '<i class="fas fa-pause"></i>';
+        playPauseBtn.innerHTML = icon;
+        bigPlayPauseBtn.innerHTML = icon;
+        player.classList.remove('hidden');
+        mainContainer.style.paddingBottom = "80px";
+        updateMediaSession(station.name, '', station.logo);
+        startTrackUpdates(station.api);
+        updateBigPlayer();
+    }
+
+    function updateTrackText(text) {
+        playerTrack.classList.remove('marquee');
+        playerTrack.innerHTML = text;
+        if (playerTrack.scrollWidth > playerTrack.parentElement.offsetWidth) {
+            const spacer = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+            playerTrack.innerHTML = `${text}${spacer}${text}${spacer}`;
+            playerTrack.classList.add('marquee');
+        }
+        bigPlayerTrack.textContent = text;
+    }
+
+    function startTrackUpdates(apiUrl) {
+        if (!apiUrl) { updateTrackText('—'); return; }
+        let lastUpdated = 0;
+        const myToken = ++currentUpdateToken;
+        const poll = async () => {
+            if (myToken !== currentUpdateToken) return;
+            currentUpdateController = new AbortController();
+            try {
+                const res = await fetch(`${apiUrl}?l=${lastUpdated}`, { signal: currentUpdateController.signal });
+                const data = await res.json();
+                if (myToken !== currentUpdateToken) return;
+                if (data.updated && data.updated !== lastUpdated) {
+                    lastUpdated = data.updated;
+                    const title = data.title || 'Немає даних';
+                    updateTrackText(title);
+                    document.title = `${title} — ${radioStations[currentStationIndex].name}`;
+                    updateMediaSession(title, radioStations[currentStationIndex].name, radioStations[currentStationIndex].logo);
+                }
+                trackUpdateTimer = setTimeout(poll, 15000);
+            } catch {
+                trackUpdateTimer = setTimeout(poll, 20000);
+            }
+        };
+        poll();
+    }
+
+    function togglePlayPause() {
+        if (isPlaying) {
+            audio.pause();
+        } else {
+            if (!audio.src && currentStationIndex !== null) {
+                audio.src = radioStations[currentStationIndex].stream;
+            }
+            audio.play().catch(() => {});
+        }
+        isPlaying = !isPlaying;
+        const icon = isPlaying ? '<i class="fas fa-pause"></i>' : '<i class="fas fa-play"></i>';
+        playPauseBtn.innerHTML = icon;
+        bigPlayPauseBtn.innerHTML = icon;
+    }
+
+    function playNextStation() {
+        if (!radioStations.length) return;
+        const nextIndex = currentStationIndex === null ? 0 : (currentStationIndex + 1) % radioStations.length;
+        playStation(nextIndex);
+    }
+
+    function playPrevStation() {
+        if (!radioStations.length) return;
+        const prevIndex = currentStationIndex === null ? 0 : (currentStationIndex - 1 + radioStations.length) % radioStations.length;
+        playStation(prevIndex);
+    }
+
+    function updateBigPlayer() {
+        if (currentStationIndex === null) return;
+        const station = radioStations[currentStationIndex];
+        bigPlayerName.textContent = station.name;
+        bigPlayerLogo.src = station.logo;
+        bigPlayerTrack.textContent = playerTrack.innerText.split('\u00A0')[0] || 'Немає даних';
+        bigPlayPauseBtn.innerHTML = isPlaying ? '<i class="fas fa-pause"></i>' : '<i class="fas fa-play"></i>';
+    }
+
+    playerInfoWrapper.addEventListener('click', () => {
+        if (!player.classList.contains('hidden')) {
+            updateBigPlayer();
+            bigPlayer.classList.add('show');
+            document.body.style.overflow = 'hidden';
+            syncSystemBarColor();
+        }
+    });
+
+    document.getElementById('close-big-player').addEventListener('click', () => {
+        bigPlayer.classList.remove('show');
+        document.body.style.overflow = '';
+        syncSystemBarColor();
+    });
+
+    document.getElementById('copy-link-btn').addEventListener('click', () => {
+        if (currentStationIndex !== null) {
+            const station = radioStations[currentStationIndex];
+            const stationId = station.id || "unknown";
+            const shareUrl = `https://radioplay.fun/?r=${stationId}`;
+            
+            navigator.clipboard.writeText(shareUrl).then(() => {
+                const iconImg = document.getElementById('share-icon-img');
+                const shareSvg = "https://www.svgrepo.com/show/447786/share.svg";
+                const checkSvg = "https://www.svgrepo.com/show/510899/check-big.svg";
+
+                iconImg.src = checkSvg;
+                setTimeout(() => {
+                    iconImg.src = shareSvg;
+                }, 2000);
+            });
+        }
+    });
+
+    prevBtn.addEventListener('click', playPrevStation);
+    playPauseBtn.addEventListener('click', togglePlayPause);
+    nextBtn.addEventListener('click', playNextStation);
+
+    bigPrevBtn.addEventListener('click', playPrevStation);
+    bigNextBtn.addEventListener('click', playNextStation);
+    bigPlayPauseBtn.addEventListener('click', togglePlayPause);
+
+    function updateThemeElements(isDark) {
+        document.body.classList.toggle('dark-theme', isDark);
+        themeToggleBtn.textContent = isDark ? '☾' : '☀';
+        syncSystemBarColor(); // Оновлюємо колір системних кнопок при зміні теми
+    }
+
+    themeToggleBtn.addEventListener('click', () => {
+        const isDark = !document.body.classList.contains('dark-theme');
+        updateThemeElements(isDark);
+        localStorage.setItem('isDarkTheme', isDark);
+    });
+
+    const savedTheme = localStorage.getItem('isDarkTheme') === 'true';
+    updateThemeElements(savedTheme);
+
+    audio.addEventListener('ended', () => {
+        isPlaying = false;
+        const icon = '<i class="fas fa-play"></i>';
+        playPauseBtn.innerHTML = icon;
+        bigPlayPauseBtn.innerHTML = icon;
+    });
+    
+    audio.addEventListener('pause', () => {
+        isPlaying = false;
+        const icon = '<i class="fas fa-play"></i>';
+        playPauseBtn.innerHTML = icon;
+        bigPlayPauseBtn.innerHTML = icon;
+    });
+
+    audio.addEventListener('play', () => {
+        isPlaying = true;
+        const icon = '<i class="fas fa-pause"></i>';
+        playPauseBtn.innerHTML = icon;
+        bigPlayPauseBtn.innerHTML = icon;
+    });
+});
+</script>
+</body>
+</html>
