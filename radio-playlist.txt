@@ -1,90 +1,90 @@
-Місто над бугом, https://radioplay.fun/images/misto_nad_bugom.png, https://stream.mistonadbugom.com.ua/radiomistonadbugom, https://scraper.onlineradiobox.com/ua.mistonadbugom
-Світ FM, https://radioplay.fun/images/svit_fm.png, https://worldradio.online/proxy/?q=http://195.234.148.52:8000/;stream.mp3, https://scraper.onlineradiobox.com/ua.svit
-Закарпаття FM, https://radioplay.fun/images/zakarpattya_fm.png, https://worldradio.online/proxy/?q=http://195.234.148.51:8000/;stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
-Radio 7, https://radioplay.fun/images/radio7.png, https://media2.streambrothers.com:8034/stream
-Захід FM+, https://radioplay.fun/images/zfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
-Пульс FM, https://radioplay.fun/images/puls-fm.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
-Галичина FM, https://radioplay.fun/images/galychyna_fm.png, https://stream320.galychyna.fm/WebSite
-Львівська Хвиля, https://radioplay.fun/images/lviv_fm.png, https://onair.lviv.fm:8443/lviv.fm,
-Тернопільська Хвиля, https://radioplay.fun/images/ternopil_fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
-Є! Радіо, https://radioplay.fun/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
-M2 Radio, https://radioplay.fun/images/m2_radio.png, https://live.m2.tv/hls3/720/stream.m3u8
-Trance is Star, https://radioplay.fun/images/trance_is_star.png, https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
-Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
-Hit FM, https://radioplay.fun/images/hit_fm.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
-Hit FM Українські хти, https://radioplay.fun/images/hit_fm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
-Hit FM Найбільші хіти, https://radioplay.fun/images/hit_fm_best.png, https://online.hitfm.ua/HitFM_Best_HD, https://scraper.onlineradiobox.com/ua.hitfmbest
-Hit FM Сучасні хіти, https://radioplay.fun/images/hit_fm_top.png, https://online.hitfm.ua/HitFM_Top_HD, https://scraper.onlineradiobox.com/ua.hitfmtop
-Мелодія FM, https://radioplay.fun/images/melodia_fm.png, https://online.melodiafm.ua/MelodiaFM_HD, https://scraper.onlineradiobox.com/ua.melodiya
-Мелодія FM International, https://radioplay.fun/images/melodia_fm_int.png, https://online.melodiafm.ua/MelodiaFM_Int_HD, https://scraper.onlineradiobox.com/ua.melodiainternational
-Мелодія FM Disco, https://radioplay.fun/images/melodia_fm_disco.png, https://online.melodiafm.ua/MelodiaFM_Disco_HD, https://scraper.onlineradiobox.com/ua.melodiadisco
-Мелодія FM Romantic, https://radioplay.fun/images/melodia_fm_romantic.png, https://online.melodiafm.ua/MelodiaFM_Romantic_HD, https://scraper.onlineradiobox.com/ua.melodiaromantic
-Relax FM, https://radioplay.fun/images/radio_relax.png, https://online.radiorelax.ua/RadioRelax_HD, https://scraper.onlineradiobox.com/ua.radiorelax.com.ua
-Relax FM Українською, https://radioplay.fun/images/radio_relax_ukr.png, https://online.radiorelax.ua/RadioRelax_Ukr_HD, https://scraper.onlineradiobox.com/ua.relaxukr
-Relax FM International, https://radioplay.fun/images/radio_relax_int.png, https://online.radiorelax.ua/RadioRelax_Int_HD, https://scraper.onlineradiobox.com/ua.relaxinternational
-Relax FM Cafe, https://radioplay.fun/images/radio_relax_cafe.png, https://online.radiorelax.ua/RadioRelax_Cafe_HD, https://scraper.onlineradiobox.com/ua.radiorelaxcafe
-Relax FM Instrumental, https://radioplay.fun/images/radio_relax_instrumental.png, https://online.radiorelax.ua/RadioRelax_Instrumental_HD, https://scraper.onlineradiobox.com/ua.radiorelaxinstrumental
-Relax FM Christmas, https://radioplay.fun/images/radio_relax_christmas.png, https://online.radiorelax.ua/RadioRelax_Christmas_Live, https://scraper.onlineradiobox.com/ua.relaxchristmas
-Classic Radio, https://radioplay.fun/images/classic_radio.png, https://online.classicradio.ua/ClassicRadio_HD, https://scraper.onlineradiobox.com/ua.classicradio
-Black Radio, https://radioplay.fun/images/radio_black.png, https://online.radioplayer.ua/RadioBlack_HD, https://scraper.onlineradiobox.com/ua.black
-Kiss FM, https://radioplay.fun/images/kiss_fm.png, https://online.kissfm.ua/KissFM_HD, https://scraper.onlineradiobox.com/ua.kiss.fm
-Kiss FM Ukraine, https://radioplay.fun/images/kiss_fm_ukr.png, https://online.kissfm.ua/KissFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.kissfmukrainian
-Kiss FM Deep, https://radioplay.fun/images/kiss_fm_deep.png, https://online.kissfm.ua/KissFM_Deep_HD, https://scraper.onlineradiobox.com/ua.kissfmdeep
-Kiss FM Digital, https://radioplay.fun/images/kiss_fm_digital.png, https://online.kissfm.ua/KissFM_Digital_HD, https://scraper.onlineradiobox.com/ua.kissfmdigital
-Jazz FM, https://radioplay.fun/images/radio_jazz.png, https://online.radiojazz.ua/RadioJazz_HD, https://scraper.onlineradiobox.com/ua.jazz
-Jazz FM Gold, https://radioplay.fun/images/radio_jazz_gold.png, https://online.radiojazz.ua/RadioJazz_Gold_HD, https://scraper.onlineradiobox.com/ua.jazzgold
-Jazz FM Light, https://radioplay.fun/images/radio_jazz_light.png, https://online.radiojazz.ua/RadioJazz_Light_HD, https://scraper.onlineradiobox.com/ua.jazzlight
-Jazz FM Cover, https://radioplay.fun/images/radio_jazz_cover.png, https://online.radiojazz.ua/RadioJazz_Cover_HD, https://scraper.onlineradiobox.com/ua.jazzcover
-Jazz FM Groove, https://radioplay.fun/images/radio_jazz_groove.png, https://online.radiojazz.ua/RadioJazz_Groove_HD, https://scraper.onlineradiobox.com/ua.jazzgroove
-Jazz FM FromUA, https://radioplay.fun/images/radio_jazz_ukr.png, https://online.radiojazz.ua/RadioJazz_Ukr_HD, https://scraper.onlineradiobox.com/ua.jazzfromua
-Jazz FM Christmas, https://radioplay.fun/images/radio_jazz_christmas.png, https://online.radiojazz.ua/RadioJazz_Christmas_HD
-Roks FM, https://radioplay.fun/images/radio_roks.png, https://online.radioroks.ua/RadioROKS_HD, https://scraper.onlineradiobox.com/ua.radio.roks
-Roks FM Український рок, https://radioplay.fun/images/radio_roks_ukr.png, https://online.radioroks.ua/RadioROKS_Ukr_HD, https://scraper.onlineradiobox.com/ua.radio.roksua
-Roks FM Новий рок, https://radioplay.fun/images/radio_roks_new_rock.png, https://online.radioroks.ua/RadioROKS_NewRock_HD, https://scraper.onlineradiobox.com/ua.radio.roksnew
-Roks FM Класичний рок, https://radioplay.fun/images/radioroks_classic_rock.png, https://online.radioroks.ua/RadioROKS_ClassicRock_HD, https://scraper.onlineradiobox.com/ua.roksclassicrock
-Roks FM Hard'n'Heavy, https://radioplay.fun/images/radio_roks_hard_n_heavy.png, https://online.radioroks.ua/RadioROKS_HardnHeavy_HD, https://scraper.onlineradiobox.com/ua.radio.rokshard
-Roks FM Рок-Балади, https://radioplay.fun/images/radio_roks_ballads.png, https://online.radioroks.ua/RadioROKS_Ballads_HD, https://scraper.onlineradiobox.com/ua.radio.roksballad
-RadioРок, https://radioplay.fun/images/radio_rock.png, https://rockradioua.online:8433/rock_256, https://scraper.onlineradiobox.com/ua.rock
-RadioРок Metal, https://radioplay.fun/images/radio_rock_metal.png, https://rockradioua.online:8433/metal_256, https://scraper.onlineradiobox.com/ua.garta
-Kyivstar | Happy Hits, https://radioplay.fun/images/kyivstar_happy_hits.png, https://radio.kyivstar.ua/stream/sport/256k.m3u8
-Kyivstar | Golden Hits, https://radioplay.fun/images/kyivstar_golden_hits.png, https://radio.kyivstar.ua/stream/gold/256k.m3u8
-Kyivstar | World Charts, https://radioplay.fun/images/kyivstar_world_charts.png, https://radio.kyivstar.ua/stream/worldchart/256k.m3u8
-Kyivstar | Made In Ukraine, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://radio.kyivstar.ua/stream/ukraine/256k.m3u8
-Kyivstar | Made In Ukraine 2, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://listen7.myradio24.com/ukraine
-Kyivstar | Chill & Lounge, https://radioplay.fun/images/kyivstar_chill_and_lounge.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
-Kyivstar | Top Hits, https://radioplay.fun/images/kyivstar_top_hits.png, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
-Kyivstar | Urban, https://radioplay.fun/images/kyivstar_urban.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
-Kyivstar | Retro, https://radioplay.fun/images/kyivstar_retro.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
-Kyivstar | Rock, https://radioplay.fun/images/kyivstar_rock.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
-Kyivstar | Elektro, https://radioplay.fun/images/kyivstar_electro.png, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
-Sun FM Ukraine, https://radioplay.fun/images/sun_fm.png, https://ec5.yesstreaming.net:2225/stream, https://scraper.onlineradiobox.com/ua.sunua
-Sun FM Plus, https://radioplay.fun/images/sun_fm_plus.png, https://ec5.yesstreaming.net:3520/stream, https://scraper.onlineradiobox.com/ua.sunfmua
-Sun FM Fresh, https://radioplay.fun/images/sun_fm_fresh.png, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
-Sun FM Gold, https://radioplay.fun/images/sun_fm_gold.png, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
-Sun FM Rock, https://radioplay.fun/images/sun_fm_rock.png, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
-Teren FM, https://radioplay.fun/images/teren_fm.png, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
-Ванда FM, https://radioplay.fun/images/wanda_fm.png, https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3, https://scraper.onlineradiobox.com/ua.wanda
-Країна FM, https://radioplay.fun/images/kraina_fm.png, https://krainafm.com.ua/.radioec.com.ua:8000/kievhi
-Країна FM Rock, https://radioplay.fun/images/kraina_fm_rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock, https://scraper.onlineradiobox.com/ua.krainafmrock
-Країна FM Лірика, https://radioplay.fun/images/kraina_fm_liryka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica, https://scraper.onlineradiobox.com/ua.krainafmlyrica
-Країна FM Дрімайко, https://radioplay.fun/images/kraina_fm_drimayko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
-Країна FM Ритмотека, https://radioplay.fun/images/kraina_fm_ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
-Країна FM Країна Мрій, https://radioplay.fun/images/kraina_fm_mriy.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
-X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
-X-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
-X-Radio Ibiza, https://radioplay.fun/images/x_radio_ibiza.png, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
-Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
-Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
-Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
-Lounge FM Chill Out, https://radioplay.fun/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320, https://scraper.onlineradiobox.com/ua.loungefmcomuaacoustic
-Misto FM Deep, https://radioplay.fun/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
-Misto FM Juda, https://radioplay.fun/images/misto_fm_juda.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
-Misto FM Beats, https://radioplay.fun/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
+ID=misto-nad-bugom, Місто над бугом, https://radioplay.fun/images/misto_nad_bugom.png, https://stream.mistonadbugom.com.ua/radiomistonadbugom, https://scraper.onlineradiobox.com/ua.mistonadbugom
+ID=svit-fm, Світ FM, https://radioplay.fun/images/svit_fm.png, https://worldradio.online/proxy/?q=http://195.234.148.52:8000/;stream.mp3, https://scraper.onlineradiobox.com/ua.svit
+ID=zakarpattya-fm, Закарпаття FM, https://radioplay.fun/images/zakarpattya_fm.png, https://worldradio.online/proxy/?q=http://195.234.148.51:8000/;stream.mp3, https://scraper.onlineradiobox.com/ua.zakarpattya
+ID=radio-7, Radio 7, https://radioplay.fun/images/radio7.png, https://media2.streambrothers.com:8034/stream
+ID=zahid-fm,Захід FM+, https://radioplay.fun/images/zfm.png, https://radio.zfm.com.ua:8443/zfm, https://scraper.onlineradiobox.com/ua.zfm
+ID=puls-fm, Пульс FM, https://radioplay.fun/images/puls-fm.png, https://pulzusfm.eu/sionelo, https://scraper.onlineradiobox.com/ua.pulzus
+ID=halychyna, Галичина FM, https://radioplay.fun/images/galychyna_fm.png, https://stream320.galychyna.fm/WebSite
+ID=lvivska-hvylya, Львівська Хвиля, https://radioplay.fun/images/lviv_fm.png, https://onair.lviv.fm:8443/lviv.fm,
+ID=ternopilska-hvylya, Тернопільська Хвиля, https://radioplay.fun/images/ternopil_fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
+ID=e-radio, Є! Радіо, https://radioplay.fun/images/e_radio.png, https://cast1.asurahosting.com/proxy/northst2/eradio1,https://scraper.onlineradiobox.com/ua.eradio
+ID=m2-radio, M2 Radio, https://radioplay.fun/images/m2_radio.png, https://live.m2.tv/hls3/720/stream.m3u8
+ID=trance-is-star, Trance is Star, https://radioplay.fun/images/trance_is_star.png, https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
+ID=radio-bayraktar, Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
+ID=hit-fm, Hit FM, https://radioplay.fun/images/hit_fm.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
+ID=hit-fm-ukr, Hit FM Українські хти, https://radioplay.fun/images/hit_fm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
+ID=hit-fm-best, Hit FM Найбільші хіти, https://radioplay.fun/images/hit_fm_best.png, https://online.hitfm.ua/HitFM_Best_HD, https://scraper.onlineradiobox.com/ua.hitfmbest
+ID=hit-fm-top, Hit FM Сучасні хіти, https://radioplay.fun/images/hit_fm_top.png, https://online.hitfm.ua/HitFM_Top_HD, https://scraper.onlineradiobox.com/ua.hitfmtop
+ID=melodia-fm, Мелодія FM, https://radioplay.fun/images/melodia_fm.png, https://online.melodiafm.ua/MelodiaFM_HD, https://scraper.onlineradiobox.com/ua.melodiya
+ID=melodia-fm-int, Мелодія FM International, https://radioplay.fun/images/melodia_fm_int.png, https://online.melodiafm.ua/MelodiaFM_Int_HD, https://scraper.onlineradiobox.com/ua.melodiainternational
+ID=melodia-fm-disco, Мелодія FM Disco, https://radioplay.fun/images/melodia_fm_disco.png, https://online.melodiafm.ua/MelodiaFM_Disco_HD, https://scraper.onlineradiobox.com/ua.melodiadisco
+ID=melodia-fm-romantic, Мелодія FM Romantic, https://radioplay.fun/images/melodia_fm_romantic.png, https://online.melodiafm.ua/MelodiaFM_Romantic_HD, https://scraper.onlineradiobox.com/ua.melodiaromantic
+ID=relax-fm, Relax FM, https://radioplay.fun/images/radio_relax.png, https://online.radiorelax.ua/RadioRelax_HD, https://scraper.onlineradiobox.com/ua.radiorelax.com.ua
+ID=relax-fm-ukr, Relax FM Українською, https://radioplay.fun/images/radio_relax_ukr.png, https://online.radiorelax.ua/RadioRelax_Ukr_HD, https://scraper.onlineradiobox.com/ua.relaxukr
+ID=relaxfm-int, Relax FM International, https://radioplay.fun/images/radio_relax_int.png, https://online.radiorelax.ua/RadioRelax_Int_HD, https://scraper.onlineradiobox.com/ua.relaxinternational
+ID=relax-fm-cafe, Relax FM Cafe, https://radioplay.fun/images/radio_relax_cafe.png, https://online.radiorelax.ua/RadioRelax_Cafe_HD, https://scraper.onlineradiobox.com/ua.radiorelaxcafe
+ID=relax-fm-instrumental, Relax FM Instrumental, https://radioplay.fun/images/radio_relax_instrumental.png, https://online.radiorelax.ua/RadioRelax_Instrumental_HD, https://scraper.onlineradiobox.com/ua.radiorelaxinstrumental
+ID=relax-fm-christmas, Relax FM Christmas, https://radioplay.fun/images/radio_relax_christmas.png, https://online.radiorelax.ua/RadioRelax_Christmas_Live, https://scraper.onlineradiobox.com/ua.relaxchristmas
+ID=classic-rafio, Classic Radio, https://radioplay.fun/images/classic_radio.png, https://online.classicradio.ua/ClassicRadio_HD, https://scraper.onlineradiobox.com/ua.classicradio
+ID=black-radio, Black Radio, https://radioplay.fun/images/radio_black.png, https://online.radioplayer.ua/RadioBlack_HD, https://scraper.onlineradiobox.com/ua.black
+ID=kiss-fm, Kiss FM, https://radioplay.fun/images/kiss_fm.png, https://online.kissfm.ua/KissFM_HD, https://scraper.onlineradiobox.com/ua.kiss.fm
+ID=kiss-fm-ukr, Kiss FM Ukraine, https://radioplay.fun/images/kiss_fm_ukr.png, https://online.kissfm.ua/KissFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.kissfmukrainian
+ID=kiss-fm-deep, Kiss FM Deep, https://radioplay.fun/images/kiss_fm_deep.png, https://online.kissfm.ua/KissFM_Deep_HD, https://scraper.onlineradiobox.com/ua.kissfmdeep
+ID=kiss-fm-digital, Kiss FM Digital, https://radioplay.fun/images/kiss_fm_digital.png, https://online.kissfm.ua/KissFM_Digital_HD, https://scraper.onlineradiobox.com/ua.kissfmdigital
+ID=jazz-fm, Jazz FM, https://radioplay.fun/images/radio_jazz.png, https://online.radiojazz.ua/RadioJazz_HD, https://scraper.onlineradiobox.com/ua.jazz
+ID=jazz-fm-gold, Jazz FM Gold, https://radioplay.fun/images/radio_jazz_gold.png, https://online.radiojazz.ua/RadioJazz_Gold_HD, https://scraper.onlineradiobox.com/ua.jazzgold
+ID=jazz-fm-light, Jazz FM Light, https://radioplay.fun/images/radio_jazz_light.png, https://online.radiojazz.ua/RadioJazz_Light_HD, https://scraper.onlineradiobox.com/ua.jazzlight
+ID=jazz-fm-cover, Jazz FM Cover, https://radioplay.fun/images/radio_jazz_cover.png, https://online.radiojazz.ua/RadioJazz_Cover_HD, https://scraper.onlineradiobox.com/ua.jazzcover
+ID=jazz-fm-groove, Jazz FM Groove, https://radioplay.fun/images/radio_jazz_groove.png, https://online.radiojazz.ua/RadioJazz_Groove_HD, https://scraper.onlineradiobox.com/ua.jazzgroove
+ID=jazz-fm-fromua, Jazz FM FromUA, https://radioplay.fun/images/radio_jazz_ukr.png, https://online.radiojazz.ua/RadioJazz_Ukr_HD, https://scraper.onlineradiobox.com/ua.jazzfromua
+ID=jazz-fm-christmas, Jazz FM Christmas, https://radioplay.fun/images/radio_jazz_christmas.png, https://online.radiojazz.ua/RadioJazz_Christmas_HD, https://scraper.onlineradiobox.com/ua.jazzchristmas
+ID=roks-fm, Roks FM, https://radioplay.fun/images/radio_roks.png, https://online.radioroks.ua/RadioROKS_HD, https://scraper.onlineradiobox.com/ua.radio.roks
+ID=roks-fm-ukr, Roks FM Український рок, https://radioplay.fun/images/radio_roks_ukr.png, https://online.radioroks.ua/RadioROKS_Ukr_HD, https://scraper.onlineradiobox.com/ua.radio.roksua
+ID=roks-fm-new, Roks FM Новий рок, https://radioplay.fun/images/radio_roks_new_rock.png, https://online.radioroks.ua/RadioROKS_NewRock_HD, https://scraper.onlineradiobox.com/ua.radio.roksnew
+ID=roks-fm+classic, Roks FM Класичний рок, https://radioplay.fun/images/radioroks_classic_rock.png, https://online.radioroks.ua/RadioROKS_ClassicRock_HD, https://scraper.onlineradiobox.com/ua.roksclassicrock
+ID=roks-fm-hard-n-heavy, Roks FM Hard'n'Heavy, https://radioplay.fun/images/radio_roks_hard_n_heavy.png, https://online.radioroks.ua/RadioROKS_HardnHeavy_HD, https://scraper.onlineradiobox.com/ua.radio.rokshard
+ID=roks-fm-balads, Roks FM Рок-Балади, https://radioplay.fun/images/radio_roks_ballads.png, https://online.radioroks.ua/RadioROKS_Ballads_HD, https://scraper.onlineradiobox.com/ua.radio.roksballad
+ID=radio-rock, RadioРок, https://radioplay.fun/images/radio_rock.png, https://rockradioua.online:8433/rock_256, https://scraper.onlineradiobox.com/ua.rock
+ID=radio-metal, RadioРок Metal, https://radioplay.fun/images/radio_rock_metal.png, https://rockradioua.online:8433/metal_256, https://scraper.onlineradiobox.com/ua.garta
+ID=kyivstar-happy-hits, Kyivstar | Happy Hits, https://radioplay.fun/images/kyivstar_happy_hits.png, https://radio.kyivstar.ua/stream/sport/256k.m3u8
+ID=kyivstar-golden-hits, Kyivstar | Golden Hits, https://radioplay.fun/images/kyivstar_golden_hits.png, https://radio.kyivstar.ua/stream/gold/256k.m3u8
+ID=kyivstar-world-charts, Kyivstar | World Charts, https://radioplay.fun/images/kyivstar_world_charts.png, https://radio.kyivstar.ua/stream/worldchart/256k.m3u8
+ID=kyivstar-made-in-ukraine, Kyivstar | Made In Ukraine, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://radio.kyivstar.ua/stream/ukraine/256k.m3u8
+ID=kyivstar-made-in-ukraine-2, Kyivstar | Made In Ukraine 2, https://radioplay.fun/images/kyivstar_made_in_ukraine.png, https://listen7.myradio24.com/ukraine
+ID=kyivstar-chill-and-lounge,Kyivstar | Chill & Lounge, https://radioplay.fun/images/kyivstar_chill_and_lounge.png, https://radio.kyivstar.ua/stream/chill/256k.m3u8
+ID=kyivstar-top-hits, Kyivstar | Top Hits, https://radioplay.fun/images/kyivstar_top_hits.png, https://radio.kyivstar.ua/stream/tophits/256k.m3u8
+ID=kyivstar-urban, Kyivstar | Urban, https://radioplay.fun/images/kyivstar_urban.png, https://radio.kyivstar.ua/stream/rap/256k.m3u8
+ID=kyivstar-retro, Kyivstar | Retro, https://radioplay.fun/images/kyivstar_retro.png, https://radio.kyivstar.ua/stream/retromusic/256k.m3u8
+ID=kyivstar-rock, Kyivstar | Rock, https://radioplay.fun/images/kyivstar_rock.png, https://radio.kyivstar.ua/stream/rock/256k.m3u8
+ID=kyivstar-elektro, Kyivstar | Elektro, https://radioplay.fun/images/kyivstar_electro.png, https://radio.kyivstar.ua/stream/elektro/256k.m3u8
+ID=sun-fm, Sun FM Ukraine, https://radioplay.fun/images/sun_fm.png, https://ec5.yesstreaming.net:2225/stream, https://scraper.onlineradiobox.com/ua.sunua
+ID=sun-fm-plus, Sun FM Plus, https://radioplay.fun/images/sun_fm_plus.png, https://ec5.yesstreaming.net:3520/stream, https://scraper.onlineradiobox.com/ua.sunfmua
+ID=sun-fm-fresh, Sun FM Fresh, https://radioplay.fun/images/sun_fm_fresh.png, https://ec5.yesstreaming.net:3560/stream, https://scraper.onlineradiobox.com/ua.sunfresh
+ID=sun-fm-gold, Sun FM Gold, https://radioplay.fun/images/sun_fm_gold.png, https://ec5.yesstreaming.net:2590/stream, https://scraper.onlineradiobox.com/ua.sungold
+ID=sun-fm-rock, Sun FM Rock, https://radioplay.fun/images/sun_fm_rock.png, https://ec5.yesstreaming.net:3650/stream, https://scraper.onlineradiobox.com/ua.sunfmrock
+ID=teren-fm, Teren FM, https://radioplay.fun/images/teren_fm.png, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
+ID=wanda-fm, Ванда FM, https://radioplay.fun/images/wanda_fm.png, https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3, https://scraper.onlineradiobox.com/ua.wanda
+ID=kraina-fm, Країна FM, https://radioplay.fun/images/kraina_fm.png, https://krainafm.com.ua/.radioec.com.ua:8000/kievhi
+ID=kraina-fm-rock, Країна FM Rock, https://radioplay.fun/images/kraina_fm_rock.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/rock, https://scraper.onlineradiobox.com/ua.krainafmrock
+ID=kraina-fm-lyric, Країна FM Лірика, https://radioplay.fun/images/kraina_fm_liryka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/lyrica, https://scraper.onlineradiobox.com/ua.krainafmlyrica
+ID=kraina-fm-drimayko, Країна FM Дрімайко, https://radioplay.fun/images/kraina_fm_drimayko.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/drimayko
+ID=kraina-fm-ritmoteka, Країна FM Ритмотека, https://radioplay.fun/images/kraina_fm_ritmoteka.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/ritmoteka
+ID=kraina-fm-mriy, Країна FM Країна Мрій, https://radioplay.fun/images/kraina_fm_mriy.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
+ID=x-radio, X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
+ID=x-radio-loungeX-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
+ID=x-radio-ibiza, X-Radio Ibiza, https://radioplay.fun/images/x_radio_ibiza.png, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
+ID=lounge-fm, Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
+ID=lounge-fm-terace, Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
+ID=lounge-fm-acoustic, Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
+ID=lounge-fm-chill-out, Lounge FM Chill Out, https://radioplay.fun/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320, https://scraper.onlineradiobox.com/ua.loungefmcomuaacoustic
+ID=misto-fm-deep, Misto FM Deep, https://radioplay.fun/images/misto_fm_deep.png, https://stream.mistofm.com/listen/misto_fm_deep/radio.mp3, https://scraper.onlineradiobox.com/ua.misto
+ID=misto-fm-juda, Misto FM Juda, https://radioplay.fun/images/misto_fm_juda.png, https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmjuda
+ID=misto-fm-beats, Misto FM Beats, https://radioplay.fun/images/misto_fm_beats.png, https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3, https://scraper.onlineradiobox.com/ua.mistofmbeats
 Radio Сільпо, https://radioplay.fun/images/radio_silpo.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 Radio Аврора, https://radioplay.fun/images/radio_avrora.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
 Радіо Цитрус, https://radioplay.fun/images/radio_citrus.png, https://stream.brandradionetworks.com/citrus, https://scraper.onlineradiobox.com/ua.citrus
 Радіо ВДНГ, https://radioplay.fun/images/radio_vdng.png, https://stream.brandradionetworks.com/vdng
-MFM, https://radioplay.fun/images/mfm.png, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
+ID=mfm, MFM, https://radioplay.fun/images/mfm.png, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
 Radio Paradise Main Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mp3-320, https://scraper.onlineradiobox.com/us.radioparadise
 Radio Paradise Mellow Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mellow-320, https://scraper.onlineradiobox.com/us.paradisemellowmix
 Radio Paradise Rock Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/rock-320, https://scraper.onlineradiobox.com/us.paradiserockmix
@@ -97,8 +97,8 @@ Lofi Hip Hop, https://radioplay.fun/images/lofi_hip_hop.png, https://stream.zeno
 Лофіко, https://radioplay.fun/images/lofico.png, https://listen4.myradio24.com/49731, https://scraper.onlineradiobox.com/ua.fayne
 DJFM, https://radioplay.fun/images/djfm.png, https://cast.brg.ua/djfm_main_public_mp3_hq
 DJFM Dance, https://radioplay.fun/images/djfm_dance.png, https://cast.brg.ua/djfmdance_main_public_mp3_hq
-High Beam Radio, https://radioplay.fun/images/high_beam_radio.png, https://listen5.myradio24.com/highbeam, https://scraper.onlineradiobox.com/ua.highbeam
-Радіо Кардан, https://radioplay.fun/images/radio_kardan.png, https://listen6.myradio24.com/scultio
+ID=high-beam-radio, High Beam Radio, https://radioplay.fun/images/high_beam_radio.png, https://listen5.myradio24.com/highbeam, https://scraper.onlineradiobox.com/ua.highbeam
+ID=radio-kardan, Радіо Кардан, https://radioplay.fun/images/radio_kardan.png, https://listen6.myradio24.com/scultio
 Шлягер FM, https://radioplay.fun/images/shlager_fm.png, https://cast.brg.ua/shanson_main_public_mp3_hq
 Перець FM, https://radioplay.fun/images/perec_fm.png, https://radio.perec.fm/radio-stilnoe, https://scraper.onlineradiobox.com/ua.stilnoe.fm
 Перець FM Romantique, https://radioplay.fun/images/perec_fm.png, https://radio.perec.fm/romantique
@@ -193,7 +193,7 @@ Fresh FM, https://radioplay.fun/images/fresh_fm.png, https://mu.telelan.com.ua/f
 Gonivo, https://radioplay.fun/images/gonivo.png, https://stream.gonivo.com.ua/radio/8000/live
 Радіо RESPECT, https://radioplay.fun/images/radio_respect.png, https://worldradio.online/proxy/?q=http://195.66.79.35:8000/live, https://scraper.onlineradiobox.com/ua.respect
 Radio Sprotyv, https://radioplay.fun/images/radio_sprotyv.png, https://listen.radioking.com/radio/528787/stream/587251
-РАДІОПІХОТА, https://radioplay.fun/images/radio_pikhota.png, https://online.pihota.fm/listen/pihota/320, https://scraper.onlineradiobox.com/ua.pihotafm
+ID=radio-pihota, РАДІОПІХОТА, https://radioplay.fun/images/radio_pikhota.png, https://online.pihota.fm/listen/pihota/320, https://scraper.onlineradiobox.com/ua.pihotafm
 Радіо K-POP, https://radioplay.fun/images/k-pop_radio.png, https://tavr.tvstitch.com/KpopRadio_HD, https://scraper.onlineradiobox.com/ua.kpopradio
 Music Radio, https://radioplay.fun/images/music_radio.png, https://tavr.tvstitch.com/MusicRadio_HD, https://scraper.onlineradiobox.com/ua.musicradio
 Гуляй Радіо, https://radioplay.fun/images/guliay_radio.png, https://tavr.tvstitch.com/GuliayRadio_HD, https://scraper.onlineradiobox.com/ua.guliay
