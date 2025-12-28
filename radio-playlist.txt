@@ -72,7 +72,7 @@ ID=kraina-fm-ritmoteka, Країна FM Ритмотека, https://radioplay.fu
 ID=kraina-fm-mriy, Країна FM Країна Мрій, https://radioplay.fun/images/kraina_fm_mriy.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/krainamriy
 ID=x-radio, X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
 ID=x-radio-lounge, X-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
-ID=x-radio-ibiza, X-Radio Ibiza, https://radioplay.fun/images/x_radio_ibiza.png, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
+ID=ibiza-plus, Ibiza Plus, https://radioplay.fun/images/x_radio_ibiza.png, https://s-us1.srv-control.com:5075/stream, https://scraper.onlineradiobox.com/ua.xonelovehits
 ID=lounge-fm, Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
 ID=lounge-fm-terace, Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
 ID=lounge-fm-acoustic, Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
