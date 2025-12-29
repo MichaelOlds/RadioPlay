@@ -156,7 +156,7 @@ Ukrainian Voice, https://radioplay.fun/images/ukraine_voice.png, https://stream.
 Люкс FM Львів, https://radioplay.fun/images/lux_fm.png, https://icecast.luxnet.ua/luxlviv_hd
 NRJ FM, https://radioplay.fun/images/radio_nrj.png, https://cast.mediaonline.net.ua/nrj320, https://scraper.onlineradiobox.com/ua.nrj
 Радіо П‘ятниця, https://radioplay.fun/images/radio_pyatnica.png, https://cast.mediaonline.net.ua/radiopyatnica320, https://scraper.onlineradiobox.com/ua.radiopyatnica
-Радіо NV, https://radioplay.fun/images/radio-nv.png, https://online-radio.nv.ua/radionv.mp3
+ID=radio-nv, Радіо NV, https://radioplay.fun/images/radio-nv.png, https://online-radio.nv.ua/radionv.mp3
 Прямий FM, https://radioplay.fun/images/prjamij_fm.png, https://cast.mediaonline.net.ua/prmfm320, https://scraper.onlineradiobox.com/ua.pryamiy
 Громадське Радіо, https://radioplay.fun/images/hromdske_radio.png, https://hromadske.radio/radio_https_upstream
 Maximum FM, https://radioplay.fun/images/radio_maximum.png, https://icecast.luxnet.ua/maximum_hd, https://scraper.onlineradiobox.com/ua.maximum
@@ -203,10 +203,10 @@ Flash Radio, https://radioplay.fun/images/flash_radio.png, https://tavr.tvstitch
 Radio Italiana, https://radioplay.fun/images/radio_italiana.png, https://tavr.tvstitch.com/RadioItaliana_HD, https://scraper.onlineradiobox.com/ua.radioitaliana
 Radio Ritmo Latino, https://radioplay.fun/images/radio_ritmo_latino.png, https://tavr.tvstitch.com/RadioRitmoLatino_HD
 Єдині Новини, https://radioplay.fun/images/marathon_news.png, https://online-news.radioplayer.ua/RadioNews, https://scraper.onlineradiobox.com/ua.dim
-Cappajoe - Rhino Sense, https://radioplay.fun/images/cappajoe_rhino_sense.png, https://stream.wolfmusicradio.com:8040/radio.mp3
-Cappajoe - Monkey Dance, https://radioplay.fun/images/cappajoe_monkey_dance.png, https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3
-Cappajoe - Flamingo Soul, https://radioplay.fun/images/cappajoe_flamingo_soul.png, https://stream.wolfmusicradio.com:8020/radio.mp3
-Wolf Deep House, https://radioplay.fun/images/wolf_music_deep_house.png, https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
+ID=cappajoe-rhino-sense, Cappajoe - Rhino Sense, https://radioplay.fun/images/cappajoe_rhino_sense.png, https://stream.wolfmusicradio.com:8040/radio.mp3
+ID=cappajoe-monkey-dance, Cappajoe - Monkey Dance, https://radioplay.fun/images/cappajoe_monkey_dance.png, https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3
+ID=cappajoe-flamingo-soul, Cappajoe - Flamingo Soul, https://radioplay.fun/images/cappajoe_flamingo_soul.png, https://stream.wolfmusicradio.com:8020/radio.mp3
+ID=wolf-radio, Wolf Deep House, https://radioplay.fun/images/wolf_music_deep_house.png, https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
 Радіо ЄС, https://radioplay.fun/images/ec_radii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/kiev
 Urban Space Radio, https://radioplay.fun/images/urban_radio.png, https://stream.urbanspaceradio.com:8443/urban-space-radio, https://scraper.onlineradiobox.com/ua.usr
 RadioHUB, https://radioplay.fun/images/radiohub.png, https://listen3.myradio24.com/radiohub, https://scraper.onlineradiobox.com/ua.radiohub
