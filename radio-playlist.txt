@@ -291,9 +291,9 @@ ReLife FM, https://radioplay.fun/images/relife_fm.png, https://worldradio.online
 Твоє Радіо, https://radioplay.fun/images/tvoe_radio.png, https://cast108372.customer.uar.net/tvoeRadio
 Слобожанське радіо, https://radioplay.fun/images/slobozhanske_radio.png, https://globalic.stream:1810/stream
 Золочів FM, https://radioplay.fun/images/zolochiv_fm.png, https://ipradio.net:8443/zolochiv, https://scraper.onlineradiobox.com/ua.zolochivfm
-Top Radio, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/topradio.mp3, https://scraper.onlineradiobox.com/ua.topradio
-Top Radio Lounge, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/toplounge.mp3
-Top Radio Dance, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/topdance.mp3
-Top Radio Rock, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/toprock.mp3
+ID=top-radio, Top Radio, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/topradio.mp3, https://scraper.onlineradiobox.com/ua.topradio
+ID=top-radio-lounge, Top Radio Lounge, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/toplounge.mp3
+ID=top-radio-dance, Top Radio Dance, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/topdance.mp3
+ID=top-radio-rock, Top Radio Rock, https://radioplay.fun/images/top_radio.png, https://stream.topradio.in.ua/toprock.mp3
 Svoboda FM, https://radioplay.fun/images/svoboda_fm.png, https://listen.radioking.com/radio/623869/stream/685978
 Прше радіо 1FM, https://radioplay.fun/images/1fm_radio.png, https://worldradio.online/proxy/?q=http://radio.grad.ua:8000/radio1-256
