@@ -221,9 +221,9 @@ RadioHUB, https://radioplay.fun/images/radiohub.png, https://listen3.myradio24.c
 Happy Radio, https://radioplay.fun/images/happy_radio.png, https://stream.zeno.fm/nkeaps48xg0uv, https://scraper.onlineradiobox.com/ua.happyradio
 Радіо Лампа, https://radioplay.fun/images/radio_lampa.png, https://cast.gossdhosting.com/listen/radio_lampa/radio.mp3, https://scraper.onlineradiobox.com/ua.radiolampa
 Background Radio, https://radioplay.fun/images/background_radio.png, https://listen4.myradio24.com/84802, https://scraper.onlineradiobox.com/ua.background
-KEXXX FM Kyiv, https://radioplay.fun/images/kexxx_fm.png, https://listen6.myradio24.com/5390, https://scraper.onlineradiobox.com/ua.keksfm
-KEXXX FM Rocks, https://radioplay.fun/images/kexxx_fm_rocks.png, https://listen6.myradio24.com/51020, https://scraper.onlineradiobox.com/ua.keksfmrock
-KEXXX FM Light, https://radioplay.fun/images/kexxx_fm_light.png, https://listen6.myradio24.com/78387, https://scraper.onlineradiobox.com/ua.kexxxlight
+ID=kexxx-fm, KEXXX FM Kyiv, https://radioplay.fun/images/kexxx_fm.png, https://listen6.myradio24.com/5390, https://scraper.onlineradiobox.com/ua.keksfm
+ID=kexxx-fm-rocks, KEXXX FM Rocks, https://radioplay.fun/images/kexxx_fm_rocks.png, https://listen6.myradio24.com/51020, https://scraper.onlineradiobox.com/ua.keksfmrock
+ID=kexxx-fm-light, KEXXX FM Light, https://radioplay.fun/images/kexxx_fm_light.png, https://listen6.myradio24.com/78387, https://scraper.onlineradiobox.com/ua.kexxxlight
 Радіо ПТРК, https://radioplay.fun/images/radio_ptrk.png, https://radio.ptrk.tv/PTRK
 Радіо Аверс, https://radioplay.fun/images/avers_fm.png, https://radio.avers.pp.ua/hls_radio/efir.m3u8
 Хвиля Гір, https://radioplay.fun/images/hvilya_hir.png, https://worldradio.online/proxy/q=http://dale.inet.kim:8123/live
