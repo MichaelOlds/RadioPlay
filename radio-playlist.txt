@@ -200,14 +200,13 @@ ID=cappajoe-rhino-sense, Cappajoe - Rhino Sense, https://radioplay.fun/images/ca
 ID=cappajoe-monkey-dance, Cappajoe - Monkey Dance, https://radioplay.fun/images/cappajoe_monkey_dance.png, https://stream.wolfmusicradio.com:8010/Monkey_Dance.mp3
 ID=cappajoe-flamingo-soul, Cappajoe - Flamingo Soul, https://radioplay.fun/images/cappajoe_flamingo_soul.png, https://stream.wolfmusicradio.com:8020/radio.mp3
 ID=wolf-radio, Wolf Deep House, https://radioplay.fun/images/wolf_music_deep_house.png, https://stream.wolfmusicradio.com:8000/Wolf_Music/radio.mp3
-Радіо ЄС, https://radioplay.fun/images/ec_radii.png, https://worldradio.online/proxy/?q=http://185.65.245.34:8000/kiev
 Urban Space Radio, https://radioplay.fun/images/urban_radio.png, https://stream.urbanspaceradio.com:8443/urban-space-radio, https://scraper.onlineradiobox.com/ua.usr
 RadioHUB, https://radioplay.fun/images/radiohub.png, https://listen3.myradio24.com/radiohub, https://scraper.onlineradiobox.com/ua.radiohub
 Радіо Котельва, https://radioplay.fun/images/radio_kotelva.png, https://globalic.stream:1575/stream, https://scraper.onlineradiobox.com/ua.vilnekotelva
 Київ FM, https://radioplay.fun/images/kyiv_news.png, https://cdn.vsnw.net:8943/kyiv_fm_320k
 Радіо М, https://radioplay.fun/images/radio_m.png, https://live.radiom.ua/stream_mp3
 Європа Плюс, https://radioplay.fun/images/europa_plus.png, https://s5.radioforge.com:7908/live
-ID=radio-pryschepkin, Радіо Прищепкін, https://radioplay.fun/images/radio_pryskhepkin.png, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/ua.prischepkin
+ID=radio-pryschepkin, Radio Прищепкін TOP40.UA, https://radioplay.fun/images/radio_pryskhepkin.png, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/ua.prischepkin
 Радіо Дзвони, https://radioplay.fun/images/radio_dzvony.png, https://n0b.radiojar.com/amxp793bsbuvv, https://scraper.onlineradiobox.com/ua.dzvony
 Радіо Марія, https://radioplay.fun/images/radio_maria.png, https://radiomaria.org.ua:8443/stream160
 Голос Надії, https://radioplay.fun/images/holos_nadiyi.png, https://s4.radio.co/s052c88338/listen, https://n0b.radiojar.com/amxp793bsbuvv, https://scraper.onlineradiobox.com/ua.hope
