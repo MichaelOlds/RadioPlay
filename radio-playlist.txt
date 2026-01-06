@@ -207,7 +207,7 @@ RadioHUB, https://radioplay.fun/images/radiohub.png, https://listen3.myradio24.c
 Київ FM, https://radioplay.fun/images/kyiv_news.png, https://cdn.vsnw.net:8943/kyiv_fm_320k
 Радіо М, https://radioplay.fun/images/radio_m.png, https://live.radiom.ua/stream_mp3
 Європа Плюс, https://radioplay.fun/images/europa_plus.png, https://s5.radioforge.com:7908/live
-Радіо Прищепкін, https://radioplay.fun/images/radio_pryskhepkin.png, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/ua.prischepkin
+ID=radio-pryschepkin, Радіо Прищепкін, https://radioplay.fun/images/radio_pryskhepkin.png, https://aac.prischepkin.com:8443/radio, https://scraper.onlineradiobox.com/ua.prischepkin
 Радіо Дзвони, https://radioplay.fun/images/radio_dzvony.png, https://n0b.radiojar.com/amxp793bsbuvv, https://scraper.onlineradiobox.com/ua.dzvony
 Радіо Марія, https://radioplay.fun/images/radio_maria.png, https://radiomaria.org.ua:8443/stream160
 Голос Надії, https://radioplay.fun/images/holos_nadiyi.png, https://s4.radio.co/s052c88338/listen, https://n0b.radiojar.com/amxp793bsbuvv, https://scraper.onlineradiobox.com/ua.hope
