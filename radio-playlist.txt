@@ -67,7 +67,6 @@ ID=sun-fm-rock, Sun FM Rock, https://radioplay.fun/images/sun_fm_rock.png, https
 ID=teren-fm, Teren FM, https://radioplay.fun/images/teren_fm.png, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
 ID=wanda-fm, Ванда FM, https://radioplay.fun/images/wanda_fm.png, https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3, https://scraper.onlineradiobox.com/ua.wanda
 ID=kraina-fm, Країна FM, https://radioplay.fun/images/kraina_fm.png, https://live2.radioec.com.ua/kiev_nr
-
 ID=lounge-fm, Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
 ID=lounge-fm-terace, Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
 ID=lounge-fm-acoustic, Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
