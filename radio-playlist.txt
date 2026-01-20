@@ -8,10 +8,10 @@ ID=halychyna, Галичина FM, https://radioplay.fun/images/galychyna_fm.png
 ID=lvivska-hvylya, Львівська Хвиля, https://radioplay.fun/images/lviv_fm.png, https://onair.lviv.fm:8443/lviv.fm,
 ID=ternopilska-hvylya, Тернопільська Хвиля, https://radioplay.fun/images/ternopil_fm.png, https://onair.lviv.fm:8443/ternopil.fm.hd
 ID=m2-radio, M2 Radio, https://radioplay.fun/images/m2_radio.png, https://live.m2.tv/hls3/720/stream.m3u8
-ID=x-radio-lounge, X-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
-ID=ibiza-plus, Ibiza Plus, https://radioplay.fun/images/x_radio_ibiza.png, https://radio.nitro-server.uk/listen/ibizaplus/radio.mp3, https://scraper.onlineradiobox.com/ua.xonelovehits
-ID=lounge-fm, Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
 ID=trance-is-star, Trance is Star, https://radioplay.fun/images/trance_is_star.png, https://listen7.myradio24.com/tisradio, https://scraper.onlineradiobox.com/ua.tranceisstar
+ID=x-radio, X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
+ID=x-radio-lounge, X-Radio Lounge, https://radioplay.fun/images/x_radio_lounge.png, https://s-us1.srv-control.com:5070/stream, https://scraper.onlineradiobox.com/ua.xlounge
+ID=ibiza-plus, Ibiza Plus, https://radioplay.fun/images/x_radio_ibiza.png, https://radio.nitro-server.uk/listen/ibizaplus/radio.mp3
 ID=radio-bayraktar, Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
 ID=hit-fm, Hit FM, https://radioplay.fun/images/hit_fm.png, https://online.hitfm.ua/HitFM_HD, https://scraper.onlineradiobox.com/ua.hit.fm
 ID=hit-fm-ukr, Hit FM Українські хти, https://radioplay.fun/images/hit_fm_ukr.png, https://online.hitfm.ua/HitFM_Ukr_HD, https://scraper.onlineradiobox.com/ua.hitfmukr
@@ -67,8 +67,8 @@ ID=sun-fm-rock, Sun FM Rock, https://radioplay.fun/images/sun_fm_rock.png, https
 ID=teren-fm, Teren FM, https://radioplay.fun/images/teren_fm.png, https://online.teren.fm/teren_320, https://scraper.onlineradiobox.com/ua.terenfm
 ID=wanda-fm, Ванда FM, https://radioplay.fun/images/wanda_fm.png, https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3, https://scraper.onlineradiobox.com/ua.wanda
 ID=kraina-fm, Країна FM, https://radioplay.fun/images/kraina_fm.png, https://live2.radioec.com.ua/kiev_nr
-ID=x-radio, X-Radio, https://radioplay.fun/images/x_radio.png, https://stream.zenolive.com/woxtg7gdfuivv, https://scraper.onlineradiobox.com/ua.radio
 
+ID=lounge-fm, Lounge FM, https://radioplay.fun/images/lounge_fm.png, https://cast.mediaonline.net.ua/loungefm320, https://scraper.onlineradiobox.com/ua.loungefm.com.ua
 ID=lounge-fm-terace, Lounge FM Terace, https://radioplay.fun/images/lounge_fm_terrace.png, https://cast.mediaonline.net.ua/terrace320, https://scraper.onlineradiobox.com/ua.loungefmcomuaterrace
 ID=lounge-fm-acoustic, Lounge FM Acoustic, https://radioplay.fun/images/lounge_fm_acoustic.png, https://cast.mediaonline.net.ua/acoustic320, https://scraper.onlineradiobox.com/ua.loungefmcomuachillout
 ID=lounge-fm-chill-out, Lounge FM Chill Out, https://radioplay.fun/images/lounge_fm_chill_out.png, https://cast.mediaonline.net.ua/chillout320, https://scraper.onlineradiobox.com/ua.loungefmcomuaacoustic
@@ -86,7 +86,7 @@ ID=radio-paradise-serenity, Radio Paradise Serenity, https://radioplay.fun/image
 ID=radio-paradise-beyond, Radio Paradise Beyond, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/beyond-320, https://scraper.onlineradiobox.com/us.paradisebeyond
 ID=trance-rafio, Trance Radio, https://radioplay.fun/images/trance.png, https://radio.hearme.fm:8100/stream, https://scraper.onlineradiobox.com/uk.trance
 ID=litt-lofi, LITT Live - Lofi, https://radioplay.fun/images/litt_lofi.png, https://das-sa39.cdnstream1.com/5582_128, https://scraper.onlineradiobox.com/us.dashsubdustrial
-ID=lofi-24-7, Lofi 24/7, https://radioplay.fun/images/lofi_24_7.png, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate
+ID=lofi-247, Lofi 24/7, https://radioplay.fun/images/lofi_24_7.png, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate
 ID=lofi-hip-hop, Lofi Hip Hop, https://radioplay.fun/images/lofi_hip_hop.png, https://stream.zeno.fm/0r0xa792kwzuv, https://scraper.onlineradiobox.com/us.lofihiphop
 ID=lofico, Лофіко, https://radioplay.fun/images/lofico.png, https://listen5.myradio24.com/49731, https://scraper.onlineradiobox.com/ua.fayne
 ID=djfm, DJFM, https://radioplay.fun/images/djfm.png, https://cast.brg.ua/djfm_main_public_mp3_hq
