@@ -427,7 +427,7 @@ document.addEventListener('DOMContentLoaded', () => {
         navigator.mediaSession.setActionHandler('pause', () => { togglePlayPause(); });
     }
 
-    fetch('radio-playlist.txt')
+    fetch('https://radioplay.fun/radio-playlist.txt')
         .then(r => r.text())
         .then(data => {
             radioStations = data.trim().split('\n').map(line => {
