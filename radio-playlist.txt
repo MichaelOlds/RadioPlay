@@ -298,4 +298,4 @@ ID=radioex, RadioEX EDM, https://radioplay.fun/images/radioex.png, https://globa
 ID=disco-radio, Disco Radio, https://radioplay.fun/images/disco_radio.png, https://stream.zeno.fm/hvxqsct29x1tv, https://scraper.onlineradiobox.com/ua.disco
 ID=uliublene-radio, Улюблене радіо, https://radioplay.fun/images/uliublene_radio.png, https://listen7.myradio24.com/ulyublene, https://scraper.onlineradiobox.com/ua.voicehorodyshche
 ID=style-fm, Style FM, https://radioplay.fun/images/style_fm.png, https://listen6.myradio24.com/station, https://scraper.onlineradiobox.com/ua.style
-ID=radio-hit, Radio HIT, https://tune.tunzilla.com/http://78.154.164.191:18088/HitFM/HitFM.m3u8
+ID=radio-hit, Radio HIT, https://radioplay.fun/images/radio-hit.png, https://tune.tunzilla.com/http://78.154.164.191:18088/HitFM/HitFM.m3u8
