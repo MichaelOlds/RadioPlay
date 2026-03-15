@@ -304,3 +304,4 @@ ID=ease-fm, Ease FM, https://radioplay.fun/images/ease_fm.png, https://stream.ze
 ID=radio-svityaz, Радіо Світязь, https://radioplay.fun/images/radio_svityaz.png, https://tune.tunzilla.com/http://95.47200.183:8000/;
 ID=radio-kryvbas, Радіо Кривбас, https://radioplay.fun/images/radio_kryvbas.png, https://onair.kryvbas.fm/RadioKryvbas
 ID=radio-bombeat, Radio Bombeat, https://radioplay.fun/images/radio_bombeat.png https://stream.globalic.com.ua:1080
+ID=radio-homer, Радіо Гомер, https://radioplay.fun/images/radio_homer.png, https://www.homer.in.ua/listen/radio_homer/radio128.aac
