@@ -301,6 +301,6 @@ ID=tiktok-radio, TikTok Radio, https://radioplay.fun/images/tiktok_radio.png, ht
 ID=radio-radiant, Radio Radiant, https://radioplay.fun/images/radio_radiant.png, https://stream.radioradiant.pp.ua/listen/radioradiant_ua/radio.mp3
 ID=ax-radio, AX Radio, https://radioplay.fun/images/ax_radio.png, https://axradio.net/stream.mp3
 ID=ease-fm, Ease FM, https://radioplay.fun/images/ease_fm.png, https://stream.zeno.fm/hfd2rp0hr0hvv
-ID=zhudadhivh, Жидачів FM, https://radioplay.fun/images/zhudadhiv.png, https://complex.in.ua/zhudadhiv
+ID=radio-svityaz, Радіо Світязь, https://radioplay.fun/images/radio_svityaz.png, https://tune.tunzilla.com/http://95.47200.183:8000/;
 ID=radio-kryvbas, Радіо Кривбас, https://radioplay.fun/images/radio_kryvbas.png, https://onair.kryvbas.fm/RadioKryvbas
 ID=radio-bombeat, Radio Bombeat, https://radioplay.fun/images/radio_bombeat.png https://stream.globalic.com.ua:1080
