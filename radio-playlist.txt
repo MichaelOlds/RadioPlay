@@ -21,6 +21,7 @@ ID=lux-fm-golden-hits, Люкс FM Золоті Хіти, https://radioplay.fun/
 ID=lux-fm-top-hits, Люкс FM Сучасні Хіти, https://radioplay.fun/images/lux_fm_top_hits.png, https://icecast.luxnet.ua/suchasni-hiti-hd-mp3
 ID=lux-fm-ukraine-hits, Люкс FM Українські Хіти, https://radioplay.fun/images/lux_fm_ukraine_hits.png, https://icecast.luxnet.ua/ukrayinski-hiti-hd-mp3
 ID=lux-fm-chill, Люкс FM Chill & Lounge, https://radioplay.fun/images/lux_fm_chill.png, https://icecast.luxnet.ua/chill-hd-mp3
+ID=love-fm, Love FM, https://radioplay.fun/images/love_fm.png, https://icecast.luxnet.ua/love-fm-hd
 ID=k-pop-24, K-Pop 24, https://radioplay.fun/images/k_pop_24.png, https://icecast.luxnet.ua/k-pop-hd-mp3
 ID=rock-24, Rock 24, https://radioplay.fun/images/rock_24.png, https://icecast.luxnet.ua/rock-24-hd-mp3
 ID=radio-bayraktar, Радіо Байрактар, https://radioplay.fun/images/radio-bayraktar.png, https://online.radiobayraktar.ua/RadioBayraktar, https://scraper.onlineradiobox.com/ua.bayraktar
@@ -87,6 +88,9 @@ ID=radio-paradise-mellow-mix, Radio Paradise Mellow Mix, https://radioplay.fun/i
 ID=radio-paradise-rock-mix, Radio Paradise Rock Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/rock-320, https://scraper.onlineradiobox.com/us.paradiserockmix
 ID=radio-paradise-serenity, Radio Paradise Serenity, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/serenity, https://scraper.onlineradiobox.com/us.paradiseserenity
 ID=radio-paradise-beyond, Radio Paradise Beyond, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/beyond-320, https://scraper.onlineradiobox.com/us.paradisebeyond
+ID=one-world-radio, One World Radio, https://radioplay.fun/images/one_world_radio.png, https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3, https://scraper.onlineradiobox.com/be.oneworldradio
+ID=one-world-radio-daybreak, One World Radio Daybreak, https://radioplay.fun/images/one_world_radio_daybreak.png, https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK.mp3, https://scraper.onlineradiobox.com/be.oneworlddaybreak
+ID=one-world-radio-anthems, One World Radio Anthems, https://radioplay.fun/images/one_world_radio_anthems.png, https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS.mp3
 ID=trance-rafio, Trance Radio, https://radioplay.fun/images/trance.png, https://radio.hearme.fm:8100/stream, https://scraper.onlineradiobox.com/uk.trance
 ID=litt-lofi, LITT Live - Lofi, https://radioplay.fun/images/litt_lofi.png, https://das-sa39.cdnstream1.com/5582_128, https://scraper.onlineradiobox.com/us.dashsubdustrial
 ID=lofi-247, Lofi 24/7, https://radioplay.fun/images/lofi_24_7.png, https://usa9.fastcast4u.com/proxy/jamz?mp=/1, https://scraper.onlineradiobox.com/us.nate
