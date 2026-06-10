@@ -82,6 +82,7 @@ ID=misto-fm-beats, Misto FM Beats, https://radioplay.fun/images/misto_fm_beats.p
 ID=radio-silpo, Radio Сільпо, https://radioplay.fun/images/radio_silpo.png, https://stream.radio.silpo.ua/silpo, https://scraper.onlineradiobox.com/ua.silpo
 ID=radio-avrora, Radio Аврора, https://radioplay.fun/images/radio_avrora.png, https://stream.brandradionetworks.com/avrora, https://scraper.onlineradiobox.com/ua.avrora
 ID=radio-vdng, Радіо ВДНГ, https://radioplay.fun/images/radio_vdng.png, https://stream.brandradionetworks.com/vdng
+ID=vegas-fm, Vegas FM, https://radioplay.fun/images/vegas_fm.pnh, https://icecast.luxnet.ua/vegas-hd-mp3
 ID=mfm, MFM, https://radioplay.fun/images/mfm.png, https://radio.mfm.ua/online128, https://scraper.onlineradiobox.com/ua.mfm
 ID=radio-paradise-main-mix, Radio Paradise Main Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mp3-320, https://scraper.onlineradiobox.com/us.radioparadise
 ID=radio-paradise-mellow-mix, Radio Paradise Mellow Mix, https://radioplay.fun/images/radio_paradise.png, https://stream.radioparadise.com/mellow-320, https://scraper.onlineradiobox.com/us.paradisemellowmix
