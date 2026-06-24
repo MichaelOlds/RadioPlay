@@ -1,4 +1,4 @@
-// functions/song.js
+// functions/metadata.js
 export async function onRequest(context) {
   const { searchParams } = new URL(context.request.url);
   const streamUrl = searchParams.get("url"); // ?url=http://radio-stream.com/live
@@ -15,11 +15,15 @@ export async function onRequest(context) {
   // Витягуємо всі заголовки
   const icyHeaders = {};
   response.headers.forEach((value, key) => {
-    icyHeaders[key] = value;
+    icyHeaders[key.toLowerCase()] = value;
   });
 
   // Беремо лише StreamTitle (поточна пісня)
-  const songInfo = icyHeaders["icy-metaint"] || icyHeaders["x-stream-title"] || icyHeaders["streamtitle"];
+  const songInfo =
+    icyHeaders["streamtitle"] ||
+    icyHeaders["x-stream-title"] ||
+    icyHeaders["icy-title"] ||
+    null;
 
   return new Response(JSON.stringify({ song: songInfo || "Unknown" }), {
     headers: {
