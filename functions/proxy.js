@@ -1,34 +1,40 @@
-// functions/metadata.js
+// functions/proxy.js
 export async function onRequest(context) {
   const { searchParams } = new URL(context.request.url);
-  const streamUrl = searchParams.get("url"); // ?url=http://radio-stream.com/live
+  const id = searchParams.get("id"); // ?id=1, ?id=2, ...
 
-  if (!streamUrl) {
-    return new Response("Missing 'url' parameter", { status: 400 });
+  if (!id) {
+    return new Response("Missing 'id' parameter", { status: 400 });
   }
 
-  // Запит із заголовком для отримання ICY-метаданих
-  const response = await fetch(streamUrl, {
-    headers: { "Icy-MetaData": "1" }
-  });
+  const allowedUrls = {
+    "1": "https://www.kissfm.ua/podcast/podcast.xml",
+    "2": "https://podcast.byduck.by/feed.xml"
+  };
 
-  // Витягуємо всі заголовки
-  const icyHeaders = {};
-  response.headers.forEach((value, key) => {
-    icyHeaders[key.toLowerCase()] = value;
-  });
+  const targetUrl = allowedUrls[id];
 
-  // Беремо лише StreamTitle (поточна пісня)
-  const songInfo =
-    icyHeaders["streamtitle"] ||
-    icyHeaders["x-stream-title"] ||
-    icyHeaders["icy-title"] ||
-    null;
+  if (!targetUrl) {
+    return new Response("Invalid id", { status: 403 });
+  }
 
-  return new Response(JSON.stringify({ song: songInfo || "Unknown" }), {
+  const response = await fetch(targetUrl);
+
+  const proxyResponse = new Response(response.body, response);
+  proxyResponse.headers.set("Access-Control-Allow-Origin", "*");
+  proxyResponse.headers.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  proxyResponse.headers.set("Access-Control-Allow-Headers", "*");
+
+  return proxyResponse;
+}
+
+export async function onRequestOptions() {
+  return new Response(null, {
+    status: 204,
     headers: {
-      "Content-Type": "application/json",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, OPTIONS",
+      "Access-Control-Allow-Headers": "*"
     }
   });
 }
