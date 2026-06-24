@@ -1,33 +1,30 @@
-// functions/proxy.js
+// functions/song.js
 export async function onRequest(context) {
   const { searchParams } = new URL(context.request.url);
-  const targetUrl = searchParams.get("url"); // ?url=https://api.com/data
+  const streamUrl = searchParams.get("url"); // ?url=http://radio-stream.com/live
 
-  if (!targetUrl) {
+  if (!streamUrl) {
     return new Response("Missing 'url' parameter", { status: 400 });
   }
 
-  const response = await fetch(targetUrl, {
-    method: context.request.method,
-    headers: context.request.headers,
-    body: context.request.body,
+  // Запит із заголовком для отримання ICY-метаданих
+  const response = await fetch(streamUrl, {
+    headers: { "Icy-MetaData": "1" }
   });
 
-  const proxyResponse = new Response(response.body, response);
-  proxyResponse.headers.set("Access-Control-Allow-Origin", "*");
-  proxyResponse.headers.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
-  proxyResponse.headers.set("Access-Control-Allow-Headers", "*");
+  // Витягуємо всі заголовки
+  const icyHeaders = {};
+  response.headers.forEach((value, key) => {
+    icyHeaders[key] = value;
+  });
 
-  return proxyResponse;
-}
+  // Беремо лише StreamTitle (поточна пісня)
+  const songInfo = icyHeaders["icy-metaint"] || icyHeaders["x-stream-title"] || icyHeaders["streamtitle"];
 
-export async function onRequestOptions() {
-  return new Response(null, {
-    status: 204,
+  return new Response(JSON.stringify({ song: songInfo || "Unknown" }), {
     headers: {
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
-      "Access-Control-Allow-Headers": "*",
-    },
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*"
+    }
   });
 }
