@@ -21,6 +21,7 @@ ID=lux-fm-golden-hits, Люкс FM Золоті Хіти, https://radioplay.fun/
 ID=lux-fm-top-hits, Люкс FM Сучасні Хіти, https://radioplay.fun/images/lux_fm_top_hits.png, https://icecast.luxnet.ua/suchasni-hiti-hd-mp3
 ID=lux-fm-ukraine-hits, Люкс FM Українські Хіти, https://radioplay.fun/images/lux_fm_ukraine_hits.png, https://icecast.luxnet.ua/ukrayinski-hiti-hd-mp3
 ID=lux-fm-chill, Люкс FM Chill & Lounge, https://radioplay.fun/images/lux_fm_chill.png, https://icecast.luxnet.ua/chill-hd-mp3
+ID=chillout-fm, Chillout FM, https://radioplay.fun/images/chillout_fm.png, https://icecast.luxnet.ua/chillout-fm-hd-mp3
 ID=love-fm, Love FM, https://radioplay.fun/images/love_fm.png, https://icecast.luxnet.ua/love-fm-hd
 ID=k-pop-24, K-Pop 24, https://radioplay.fun/images/k_pop_24.png, https://icecast.luxnet.ua/k-pop-hd-mp3
 ID=rock-24, Rock 24, https://radioplay.fun/images/rock_24.png, https://icecast.luxnet.ua/rock-24-hd-mp3
